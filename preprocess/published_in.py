@@ -67,7 +67,7 @@ def get_paper_data(paper_id):
 
             conference_venues.append({"ss_venue_id": id, "name": name, "url": conference_url}) 
             published_in.append({"paper_id": paper_id, "ss_venue_id": id})
-           # print(f"Conference: {name}, URL: {conference_url}")
+            #print(f"Conference: {name}, URL: {conference_url}")
 
 
         
