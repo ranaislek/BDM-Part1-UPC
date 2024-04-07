@@ -1,11 +1,11 @@
-Author Id,Name,Affiliation,Email,Interests
-jMVuQpsAAAAJ,"Joseph F. Hair, Jr.","University of South Alabama, Cleverdon Chair of Business",@southalabama.edu,"multivariate analysis, business analytics, marketing, structural equation modeling, PLS"
-fxbJ16gAAAAJ,Valarie Zeithaml,"Marketing Department, University of North Carolina at Chapel Hill",@unc.edu,"marketing, services marketing, service management"
-KnnmEP4AAAAJ,Marko Sarstedt,Ludwig-Maximilians-University Munich,@lmu.de,"Marketing, Structural Equation Modeling, Consumer Behavior, PLS, Research Methods"
-r4ZImFAAAAAJ,R. P. Bagozzi,"Professor of Behavioral Science in Management, University of Michigan",@umich.edu,"Marketing, Management, social psychology, statistics, neuroscience"
-x8xNLZQAAAAJ,Kevin Lane Keller,Tuck School of Business at Dartmouth College,@dartmouth.edu,"Marketing, Branding, Brands, Brand Management"
-jVXA0pIAAAAJ,Claes Fornell,"Chairman and Founder, American Customer Satisfaction Index",@umich.edu,"Customer Satisfaction, Marketing, Customer Experience Management"
-OBAePKYAAAAJ,Scott B. MacKenzie,"Professor Emeritus of Marketing, Indiana University",@indiana.edu,"Marketing, consumer behavior, research methods, advertising, leadership"
-0mVXoxYAAAAJ,DAvid Aaker,"Prophet, BerkeleyHaas School of Business, University of California",@prophet.com,"Marketing, branding, strategy, stories, growth"
-OOQN8kgAAAAJ,Mak,Unknown affiliation,,Marketing
--uo0qGIAAAAJ,Chao Zhang,"student of business management, Salford University",,"business, marketing, psychology, history"
+Author Id,Name,Affiliation,Email,citedby,citedby5y,hindex,hindex5y,Interests
+jMVuQpsAAAAJ,"Joseph F. Hair, Jr.","University of South Alabama, Cleverdon Chair of Business",@southalabama.edu,415680,251977,127,108,"multivariate analysis, business analytics, marketing, structural equation modeling, PLS"
+fxbJ16gAAAAJ,Valarie Zeithaml,"Marketing Department, University of North Carolina at Chapel Hill",@unc.edu,298364,86644,88,58,"marketing, services marketing, service management"
+KnnmEP4AAAAJ,Marko Sarstedt,Ludwig-Maximilians-University Munich,@lmu.de,218758,181803,97,90,"Marketing, Structural Equation Modeling, Consumer Behavior, PLS, Research Methods"
+r4ZImFAAAAAJ,R. P. Bagozzi,"Professor of Behavioral Science in Management, University of Michigan",@umich.edu,214830,75391,140,89,"Marketing, Management, social psychology, statistics, neuroscience"
+x8xNLZQAAAAJ,Kevin Lane Keller,Tuck School of Business at Dartmouth College,@dartmouth.edu,206271,84273,124,96,"Marketing, Branding, Brands, Brand Management"
+jVXA0pIAAAAJ,Claes Fornell,"Chairman and Founder, American Customer Satisfaction Index",@umich.edu,205326,90549,63,39,"Customer Satisfaction, Marketing, Customer Experience Management"
+OBAePKYAAAAJ,Scott B. MacKenzie,"Professor Emeritus of Marketing, Indiana University",@indiana.edu,178724,80494,58,47,"Marketing, consumer behavior, research methods, advertising, leadership"
+0mVXoxYAAAAJ,DAvid Aaker,"Prophet, BerkeleyHaas School of Business, University of California",@prophet.com,156913,41637,110,67,"Marketing, branding, strategy, stories, growth"
+OOQN8kgAAAAJ,Mak,Unknown affiliation,,127398,31534,195,84,Marketing
+-uo0qGIAAAAJ,Chao Zhang,"student of business management, Salford University",,127221,82335,158,126,"business, marketing, psychology, history"

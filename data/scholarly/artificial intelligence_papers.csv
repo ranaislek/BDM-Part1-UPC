@@ -1,101 +1,101 @@
-Author-Paper Id,Author,Title,Year,Citations
-JicYPdAAAAAJ:VN7nJs4JPk0C,Geoffrey Hinton,Imagenet classification with deep convolutional neural networks,2012,153161
-JicYPdAAAAAJ:C-SEpTPhZ1wC,Geoffrey Hinton,Deep learning,2015,75329
-JicYPdAAAAAJ:GFxP56DSvIMC,Geoffrey Hinton,Learning internal representations by error-propagation,1986,58019
-JicYPdAAAAAJ:Ic1VZgkJnDsC,Geoffrey Hinton,Dropout: a simple way to prevent neural networks from overfitting,2014,49596
-JicYPdAAAAAJ:ZeXyd9-uunAC,Geoffrey Hinton,Visualizing data using t-SNE,2008,44980
-JicYPdAAAAAJ:xckinRaLORAC,Geoffrey Hinton,Learning representations by back-propagating errors,1986,37364
-JicYPdAAAAAJ:fPk4N6BV_jEC,Geoffrey Hinton,Learning multiple layers of features from tiny images,2009,28789
-JicYPdAAAAAJ:D_sINldO8mEC,Geoffrey Hinton,Rectified linear units improve restricted boltzmann machines,2010,24477
-JicYPdAAAAAJ:WF5omc3nYNoC,Geoffrey Hinton,Reducing the dimensionality of data with neural networks,2006,22353
-JicYPdAAAAAJ:YsMSGLbcyi4C,Geoffrey Hinton,A fast learning algorithm for deep belief nets,2006,21041
-kukA0LcAAAAJ:naSTrk-c4S8C,Yoshua Bengio,Deep learning,2015,75348
-kukA0LcAAAAJ:i8eIfGGcn98C,Yoshua Bengio,Generative adversarial nets,2014,75310
-kukA0LcAAAAJ:u5HHmVD_uO8C,Yoshua Bengio,Gradient-based learning applied to document recognition,1998,63599
-kukA0LcAAAAJ:orDZ08hpP44C,Yoshua Bengio,Deep learning,2016,61752
-kukA0LcAAAAJ:__bU50VfleQC,Yoshua Bengio,Neural machine translation by jointly learning to align and translate,2014,33719
-kukA0LcAAAAJ:kJDgFkosVoMC,Yoshua Bengio,Learning phrase representations using RNN encoder-decoder for statistical machine translation,2014,28550
-kukA0LcAAAAJ:D_sINldO8mEC,Yoshua Bengio,Understanding the difficulty of training deep feedforward neural networks,2010,23772
-kukA0LcAAAAJ:N6_Y7JlWxwsC,Yoshua Bengio,Graph attention networks,2017,19539
-kukA0LcAAAAJ:SxCCDk4iOpsC,Yoshua Bengio,Empirical evaluation of gated recurrent neural networks on sequence modeling,2014,15469
-kukA0LcAAAAJ:jFemdcug13IC,Yoshua Bengio,Representation learning: A review and new perspectives,2013,15255
-x04W_mMAAAAJ:UebtZRa9Y70C,Ilya Sutskever,Imagenet classification with deep convolutional neural networks,2012,153904
-x04W_mMAAAAJ:4aZ_i-5WJEQC,Ilya Sutskever,Tensorflow: Large-scale machine learning on heterogeneous distributed systems,2016,52722
-x04W_mMAAAAJ:1yWc8FF-_SYC,Ilya Sutskever,Dropout: a simple way to prevent neural networks from overfitting,2014,49577
-x04W_mMAAAAJ:kNdYIx-mwKoC,Ilya Sutskever,Distributed representations of words and phrases and their compositionality,2013,43176
-x04W_mMAAAAJ:-DxkuPiZhfEC,Ilya Sutskever,Sequence to sequence learning with neural networks,2014,25543
-x04W_mMAAAAJ:Ic1VZgkJnDsC,Ilya Sutskever,Language models are few-shot learners,2020,23740
-x04W_mMAAAAJ:PyEswDtIyv0C,Ilya Sutskever,Mastering the game of Go with deep neural networks and tree search,2016,18504
-x04W_mMAAAAJ:Zph67rFs4hoC,Ilya Sutskever,Intriguing properties of neural networks,2013,16123
-x04W_mMAAAAJ:wUn16MOA3RoC,Ilya Sutskever,Learning transferable visual models from natural language supervision,2021,14832
-x04W_mMAAAAJ:LkGwnXOMwfcC,Ilya Sutskever,Improving neural networks by preventing co-adaptation of feature detectors,2012,11053
-yxUduqMAAAAJ:u5HHmVD_uO8C,Michael I. Jordan,Latent dirichlet allocation,2003,52390
-yxUduqMAAAAJ:H2XcuePHLsAC,Michael I. Jordan,On spectral clustering: Analysis and an algorithm,2001,12351
-yxUduqMAAAAJ:jKT558fuBk8C,Michael I. Jordan,"Machine learning: Trends, perspectives, and prospects",2015,8215
-yxUduqMAAAAJ:x2hKVfJWtf0C,Michael I. Jordan,Trust region policy optimization,2015,7809
-yxUduqMAAAAJ:d1gkVwhDpl0C,Michael I. Jordan,Adaptive mixtures of local experts,1991,5814
-yxUduqMAAAAJ:ZOYfmFL0FrgC,Michael I. Jordan,Learning transferable features with deep adaptation networks,2015,5546
-yxUduqMAAAAJ:UebtZRa9Y70C,Michael I. Jordan,"Graphical models, exponential families, and variational inference",2008,5385
-yxUduqMAAAAJ:W7OEmFMy1HYC,Michael I. Jordan,Sharing clusters among related groups: Hierarchical Dirichlet processes,2004,5321
-yxUduqMAAAAJ:XDrR66g3YHsC,Michael I. Jordan,An introduction to variational methods for graphical models,1999,5308
-yxUduqMAAAAJ:2osOgNQ5qMEC,Michael I. Jordan,Hierarchical mixtures of experts and the EM algorithm,1994,4200
-S6H-0RAAAAAJ:QKtdBID3u5MC,Lotfi A. Zadeh,Fuzzy Sets,1965,141702
-S6H-0RAAAAAJ:NRnkAyzcrGMC,Lotfi A. Zadeh,The concept of a linguistic variable and its application to approximate reasoning—I,1975,37481
-S6H-0RAAAAAJ:lYbyOjaXH8MC,Lotfi A. Zadeh,The concept of a linguistic variable and its application to approximate reasoning—I,1975,21633
-S6H-0RAAAAAJ:vxA22ZmNLkoC,Lotfi A. Zadeh,Decision-making in a fuzzy environment,1970,12294
-S6H-0RAAAAAJ:vYYylRVofzEC,Lotfi A. Zadeh,Fuzzy logic= computing with words,1996,7445
-S6H-0RAAAAAJ:inmFHauC9wsC,Lotfi A. Zadeh,Fuzzy logic,1988,5803
-S6H-0RAAAAAJ:CRzUtm-VnGAC,Lotfi A. Zadeh,Similarity relations and fuzzy orderings,1971,3813
-S6H-0RAAAAAJ:Nnq8S6OXqDYC,Lotfi A. Zadeh,Toward a theory of fuzzy information granulation and its centrality in human reasoning and fuzzy logic,1997,3753
-S6H-0RAAAAAJ:TaWRl4-rBxwC,Lotfi A. Zadeh,Probability measures of fuzzy events,1968,3617
-S6H-0RAAAAAJ:xii_ZKWM4-0C,Lotfi A. Zadeh,Fuzzy sets and information granularity,1979,3306
-NkzyCvUAAAAJ:BqipwSGYUEgC,Oriol Vinyals,"TensorFlow: Large-scale machine learning on heterogeneous systems, 2015",,53422
-NkzyCvUAAAAJ:QIV2ME_5wuYC,Oriol Vinyals,Sequence to sequence learning with neural networks,2014,25726
-NkzyCvUAAAAJ:An6A6Jpfc1oC,Oriol Vinyals,Highly accurate protein structure prediction with AlphaFold,2021,21052
-NkzyCvUAAAAJ:-f6ydRqryjwC,Oriol Vinyals,Distilling the knowledge in a neural network,2015,19012
-NkzyCvUAAAAJ:3s1wT3WcHBgC,Oriol Vinyals,Google's neural machine translation system: Bridging the gap between human and machine translation,2016,8341
-NkzyCvUAAAAJ:RYcK_YlVTxYC,Oriol Vinyals,Matching networks for one shot learning,2016,8304
-NkzyCvUAAAAJ:SdhP9T11ey4C,Oriol Vinyals,Representation learning with contrastive predictive coding,2018,8040
-NkzyCvUAAAAJ:nb7KW1ujOQ8C,Oriol Vinyals,Neural message passing for quantum chemistry,2017,7701
-NkzyCvUAAAAJ:L8Ckcad2t8MC,Oriol Vinyals,Show and tell: A neural image caption generator,2015,7412
-NkzyCvUAAAAJ:fPk4N6BV_jEC,Oriol Vinyals,Understanding deep learning (still) requires rethinking generalization,2021,6607
-bh-uRFMAAAAJ:Xz60mAmATU4C,Trevor Darrell,Fully convolutional networks for semantic segmentation,2015,47814
-bh-uRFMAAAAJ:VN7nJs4JPk0C,Trevor Darrell,Rich feature hierarchies for accurate object detection and semantic segmentation,2014,36093
-bh-uRFMAAAAJ:k_7cPK9k7w8C,Trevor Darrell,Caffe: Convolutional architecture for fast feature embedding,2014,17797
-bh-uRFMAAAAJ:8Xgff_V0N9gC,Trevor Darrell,Long-term recurrent convolutional networks for visual recognition and description,2015,7594
-bh-uRFMAAAAJ:u5HHmVD_uO8C,Trevor Darrell,Pfinder: Real-time tracking of the human body,1997,7042
-bh-uRFMAAAAJ:_AeoHAGD03cC,Trevor Darrell,Context encoders: Feature learning by inpainting,2016,6108
-bh-uRFMAAAAJ:2Q0AJrNhS-QC,Trevor Darrell,Decaf: A deep convolutional activation feature for generic visual recognition,2014,5902
-bh-uRFMAAAAJ:nPTYJWkExTIC,Trevor Darrell,Adversarial discriminative domain adaptation,2017,5192
-bh-uRFMAAAAJ:f2PrUAIjnKUC,Trevor Darrell,A convnet for the 2020s,2022,3856
-bh-uRFMAAAAJ:0aBXIfxlw9sC,Trevor Darrell,End-to-end training of deep visuomotor policies,2016,3819
-GExyiRkAAAAJ:ZuybSZzF8UAC,Stephen Boyd,Convex Optimization,2004,74685
-GExyiRkAAAAJ:QoJ_w57xiyAC,Stephen Boyd,Linear matrix inequalities in system and control theory,1994,29214
-GExyiRkAAAAJ:yD5IFk8b50cC,Stephen Boyd,Distributed optimization and statistical learning via the alternating direction method of multipliers,2011,22140
-GExyiRkAAAAJ:IjCSPb-OGe4C,Stephen Boyd,CVX: Matlab software for disciplined convex programming,2008,14776
-GExyiRkAAAAJ:9yKSN-GCB0IC,Stephen Boyd,Semidefinite programming,1996,5913
-GExyiRkAAAAJ:W7OEmFMy1HYC,Stephen Boyd,Enhancing Sparsity by Reweighted l1 Minimization,2007,5719
-GExyiRkAAAAJ:eI34FqJmdUoC,Stephen Boyd,Proximal Algorithms,2014,5162
-GExyiRkAAAAJ:qxL8FJ1GzNcC,Stephen Boyd,Graph implementations for nonsmooth convex programs,2008,3488
-GExyiRkAAAAJ:Tyk-4Ss8FVUC,Stephen Boyd,Fast linear iterations for distributed averaging,2004,3221
-GExyiRkAAAAJ:qjMakFHDy7sC,Stephen Boyd,Applications of second-order cone programming,1998,2957
-rDfyQnIAAAAJ:qjMakFHDy7sC,Li Fei-Fei,Imagenet: A large-scale hierarchical image database,2009,67588
-rDfyQnIAAAAJ:JV2RwH3_ST0C,Li Fei-Fei,Imagenet large scale visual recognition challenge,2015,43736
-rDfyQnIAAAAJ:vDijr-p_gm4C,Li Fei-Fei,Perceptual losses for real-time style transfer and super-resolution,2016,11118
-rDfyQnIAAAAJ:isC4tDSrTZIC,Li Fei-Fei,Large-scale video classification with convolutional neural networks,2014,8319
-rDfyQnIAAAAJ:M05iB0D1s5AC,Li Fei-Fei,Deep visual-semantic alignments for generating image descriptions,2015,6703
-rDfyQnIAAAAJ:u-x6o8ySG0sC,Li Fei-Fei,Learning generative visual models from few training examples: An incremental bayesian approach tested on 101 object categories,2004,5326
-rDfyQnIAAAAJ:sNmaIFBj_lkC,Li Fei-Fei,Visual genome: Connecting language and vision using crowdsourced dense image annotations,2017,5268
-rDfyQnIAAAAJ:u5HHmVD_uO8C,Li Fei-Fei,A bayesian hierarchical model for learning natural scene categories,2005,5042
-rDfyQnIAAAAJ:lSLTfruPkqcC,Li Fei-Fei,3d object representations for fine-grained categorization,2013,3576
-rDfyQnIAAAAJ:4MWp96NkSFoC,Li Fei-Fei,Social lstm: Human trajectory prediction in crowded spaces,2016,3283
-f2XZEZ8AAAAJ:as11RrW_MxEC,Tien Yin Wong 黄天荫,"Worldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016: a pooled analysis of 2416 population-based measurement studies in 128· 9 million children, adolescents, and adults",2017,7704
-f2XZEZ8AAAAJ:isC4tDSrTZIC,Tien Yin Wong 黄天荫,Global prevalence of glaucoma and projections of glaucoma burden through 2040: a systematic review and meta-analysis,2014,6411
-f2XZEZ8AAAAJ:Kb2XK_T5ZYAC,Tien Yin Wong 黄天荫,"Global, regional, and national comparative risk assessment of 84 behavioural, environmental and occupational, and metabolic risks or clusters of risks for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017",2018,5755
-f2XZEZ8AAAAJ:27qsyVibG6YC,Tien Yin Wong 黄天荫,Trends in adult body-mass index in 200 countries from 1975 to 2014: a pooled analysis of 1698 population-based measurement studies with 19· 2 million participants,2016,5547
-f2XZEZ8AAAAJ:d1gkVwhDpl0C,Tien Yin Wong 黄天荫,Global prevalence and major risk factors of diabetic retinopathy,2012,5123
-f2XZEZ8AAAAJ:70eg2SAEIzsC,Tien Yin Wong 黄天荫,Global prevalence of age-related macular degeneration and disease burden projection for 2020 and 2040: a systematic review and meta-analysis,2014,4527
-f2XZEZ8AAAAJ:pxLfhFzThFYC,Tien Yin Wong 黄天荫,Global prevalence of myopia and high myopia and temporal trends from 2000 through 2050,2016,4254
-f2XZEZ8AAAAJ:nazVBdFzvK0C,Tien Yin Wong 黄天荫,Worldwide trends in diabetes since 1980: a pooled analysis of 751 population-based studies with 4· 4 million participants,2016,4081
-f2XZEZ8AAAAJ:u5HHmVD_uO8C,Tien Yin Wong 黄天荫,"Biological, clinical and population relevance of 95 loci for blood lipids",2010,4017
-f2XZEZ8AAAAJ:5FkVrPDuTQgC,Tien Yin Wong 黄天荫,Global causes of blindness and distance vision impairment 1990–2020: a systematic review and meta-analysis,2017,3005
+Author-Paper Id,author_id,Title,Year,Citations
+JicYPdAAAAAJ:VN7nJs4JPk0C,JicYPdAAAAAJ,Imagenet classification with deep convolutional neural networks,2012,153251
+JicYPdAAAAAJ:C-SEpTPhZ1wC,JicYPdAAAAAJ,Deep learning,2015,75381
+JicYPdAAAAAJ:GFxP56DSvIMC,JicYPdAAAAAJ,Learning internal representations by error-propagation,1986,58030
+JicYPdAAAAAJ:Ic1VZgkJnDsC,JicYPdAAAAAJ,Dropout: a simple way to prevent neural networks from overfitting,2014,49622
+JicYPdAAAAAJ:ZeXyd9-uunAC,JicYPdAAAAAJ,Visualizing data using t-SNE,2008,45041
+JicYPdAAAAAJ:xckinRaLORAC,JicYPdAAAAAJ,Learning representations by back-propagating errors,1986,37378
+JicYPdAAAAAJ:fPk4N6BV_jEC,JicYPdAAAAAJ,Learning multiple layers of features from tiny images,2009,28830
+JicYPdAAAAAJ:D_sINldO8mEC,JicYPdAAAAAJ,Rectified linear units improve restricted boltzmann machines,2010,24485
+JicYPdAAAAAJ:WF5omc3nYNoC,JicYPdAAAAAJ,Reducing the dimensionality of data with neural networks,2006,22364
+JicYPdAAAAAJ:YsMSGLbcyi4C,JicYPdAAAAAJ,A fast learning algorithm for deep belief nets,2006,21050
+kukA0LcAAAAJ:i8eIfGGcn98C,kukA0LcAAAAJ,Generative adversarial nets,2014,75404
+kukA0LcAAAAJ:naSTrk-c4S8C,kukA0LcAAAAJ,Deep learning,2015,75400
+kukA0LcAAAAJ:u5HHmVD_uO8C,kukA0LcAAAAJ,Gradient-based learning applied to document recognition,1998,63637
+kukA0LcAAAAJ:orDZ08hpP44C,kukA0LcAAAAJ,Deep learning,2016,61805
+kukA0LcAAAAJ:__bU50VfleQC,kukA0LcAAAAJ,Neural machine translation by jointly learning to align and translate,2014,33735
+kukA0LcAAAAJ:kJDgFkosVoMC,kukA0LcAAAAJ,Learning phrase representations using RNN encoder-decoder for statistical machine translation,2014,28561
+kukA0LcAAAAJ:D_sINldO8mEC,kukA0LcAAAAJ,Understanding the difficulty of training deep feedforward neural networks,2010,23785
+kukA0LcAAAAJ:N6_Y7JlWxwsC,kukA0LcAAAAJ,Graph attention networks,2017,19562
+kukA0LcAAAAJ:SxCCDk4iOpsC,kukA0LcAAAAJ,Empirical evaluation of gated recurrent neural networks on sequence modeling,2014,15479
+kukA0LcAAAAJ:jFemdcug13IC,kukA0LcAAAAJ,Representation learning: A review and new perspectives,2013,15261
+x04W_mMAAAAJ:UebtZRa9Y70C,x04W_mMAAAAJ,Imagenet classification with deep convolutional neural networks,2012,154033
+x04W_mMAAAAJ:4aZ_i-5WJEQC,x04W_mMAAAAJ,Tensorflow: Large-scale machine learning on heterogeneous distributed systems,2016,52742
+x04W_mMAAAAJ:1yWc8FF-_SYC,x04W_mMAAAAJ,Dropout: a simple way to prevent neural networks from overfitting,2014,49603
+x04W_mMAAAAJ:kNdYIx-mwKoC,x04W_mMAAAAJ,Distributed representations of words and phrases and their compositionality,2013,43198
+x04W_mMAAAAJ:-DxkuPiZhfEC,x04W_mMAAAAJ,Sequence to sequence learning with neural networks,2014,25554
+x04W_mMAAAAJ:Ic1VZgkJnDsC,x04W_mMAAAAJ,Language models are few-shot learners,2020,23843
+x04W_mMAAAAJ:PyEswDtIyv0C,x04W_mMAAAAJ,Mastering the game of Go with deep neural networks and tree search,2016,18514
+x04W_mMAAAAJ:Zph67rFs4hoC,x04W_mMAAAAJ,Intriguing properties of neural networks,2013,16134
+x04W_mMAAAAJ:wUn16MOA3RoC,x04W_mMAAAAJ,Learning transferable visual models from natural language supervision,2021,14915
+x04W_mMAAAAJ:LkGwnXOMwfcC,x04W_mMAAAAJ,Improving neural networks by preventing co-adaptation of feature detectors,2012,11059
+yxUduqMAAAAJ:u5HHmVD_uO8C,yxUduqMAAAAJ,Latent dirichlet allocation,2003,52413
+yxUduqMAAAAJ:H2XcuePHLsAC,yxUduqMAAAAJ,On spectral clustering: Analysis and an algorithm,2001,12358
+yxUduqMAAAAJ:jKT558fuBk8C,yxUduqMAAAAJ,"Machine learning: Trends, perspectives, and prospects",2015,8231
+yxUduqMAAAAJ:x2hKVfJWtf0C,yxUduqMAAAAJ,Trust region policy optimization,2015,7815
+yxUduqMAAAAJ:d1gkVwhDpl0C,yxUduqMAAAAJ,Adaptive mixtures of local experts,1991,5819
+yxUduqMAAAAJ:ZOYfmFL0FrgC,yxUduqMAAAAJ,Learning transferable features with deep adaptation networks,2015,5548
+yxUduqMAAAAJ:UebtZRa9Y70C,yxUduqMAAAAJ,"Graphical models, exponential families, and variational inference",2008,5386
+yxUduqMAAAAJ:W7OEmFMy1HYC,yxUduqMAAAAJ,Sharing clusters among related groups: Hierarchical Dirichlet processes,2004,5322
+yxUduqMAAAAJ:XDrR66g3YHsC,yxUduqMAAAAJ,An introduction to variational methods for graphical models,1999,5309
+yxUduqMAAAAJ:2osOgNQ5qMEC,yxUduqMAAAAJ,Hierarchical mixtures of experts and the EM algorithm,1994,4202
+S6H-0RAAAAAJ:QKtdBID3u5MC,S6H-0RAAAAAJ,Fuzzy Sets,1965,141740
+S6H-0RAAAAAJ:NRnkAyzcrGMC,S6H-0RAAAAAJ,The concept of a linguistic variable and its application to approximate reasoning—I,1975,37488
+S6H-0RAAAAAJ:lYbyOjaXH8MC,S6H-0RAAAAAJ,The concept of a linguistic variable and its application to approximate reasoning—I,1975,21636
+S6H-0RAAAAAJ:vxA22ZmNLkoC,S6H-0RAAAAAJ,Decision-making in a fuzzy environment,1970,12296
+S6H-0RAAAAAJ:vYYylRVofzEC,S6H-0RAAAAAJ,Fuzzy logic= computing with words,1996,7447
+S6H-0RAAAAAJ:inmFHauC9wsC,S6H-0RAAAAAJ,Fuzzy logic,1988,5806
+S6H-0RAAAAAJ:CRzUtm-VnGAC,S6H-0RAAAAAJ,Similarity relations and fuzzy orderings,1971,3812
+S6H-0RAAAAAJ:Nnq8S6OXqDYC,S6H-0RAAAAAJ,Toward a theory of fuzzy information granulation and its centrality in human reasoning and fuzzy logic,1997,3752
+S6H-0RAAAAAJ:TaWRl4-rBxwC,S6H-0RAAAAAJ,Probability measures of fuzzy events,1968,3617
+S6H-0RAAAAAJ:xii_ZKWM4-0C,S6H-0RAAAAAJ,Fuzzy sets and information granularity,1979,3307
+NkzyCvUAAAAJ:BqipwSGYUEgC,NkzyCvUAAAAJ,"TensorFlow: Large-scale machine learning on heterogeneous systems, 2015",,53444
+NkzyCvUAAAAJ:QIV2ME_5wuYC,NkzyCvUAAAAJ,Sequence to sequence learning with neural networks,2014,25737
+NkzyCvUAAAAJ:An6A6Jpfc1oC,NkzyCvUAAAAJ,Highly accurate protein structure prediction with AlphaFold,2021,21117
+NkzyCvUAAAAJ:-f6ydRqryjwC,NkzyCvUAAAAJ,Distilling the knowledge in a neural network,2015,19032
+NkzyCvUAAAAJ:3s1wT3WcHBgC,NkzyCvUAAAAJ,Google's neural machine translation system: Bridging the gap between human and machine translation,2016,8346
+NkzyCvUAAAAJ:RYcK_YlVTxYC,NkzyCvUAAAAJ,Matching networks for one shot learning,2016,8315
+NkzyCvUAAAAJ:SdhP9T11ey4C,NkzyCvUAAAAJ,Representation learning with contrastive predictive coding,2018,8049
+NkzyCvUAAAAJ:nb7KW1ujOQ8C,NkzyCvUAAAAJ,Neural message passing for quantum chemistry,2017,7713
+NkzyCvUAAAAJ:L8Ckcad2t8MC,NkzyCvUAAAAJ,Show and tell: A neural image caption generator,2015,7415
+NkzyCvUAAAAJ:fPk4N6BV_jEC,NkzyCvUAAAAJ,Understanding deep learning (still) requires rethinking generalization,2021,6619
+bh-uRFMAAAAJ:Xz60mAmATU4C,bh-uRFMAAAAJ,Fully convolutional networks for semantic segmentation,2015,47845
+bh-uRFMAAAAJ:VN7nJs4JPk0C,bh-uRFMAAAAJ,Rich feature hierarchies for accurate object detection and semantic segmentation,2014,36120
+bh-uRFMAAAAJ:k_7cPK9k7w8C,bh-uRFMAAAAJ,Caffe: Convolutional architecture for fast feature embedding,2014,17801
+bh-uRFMAAAAJ:8Xgff_V0N9gC,bh-uRFMAAAAJ,Long-term recurrent convolutional networks for visual recognition and description,2015,7598
+bh-uRFMAAAAJ:u5HHmVD_uO8C,bh-uRFMAAAAJ,Pfinder: Real-time tracking of the human body,1997,7041
+bh-uRFMAAAAJ:_AeoHAGD03cC,bh-uRFMAAAAJ,Context encoders: Feature learning by inpainting,2016,6108
+bh-uRFMAAAAJ:2Q0AJrNhS-QC,bh-uRFMAAAAJ,Decaf: A deep convolutional activation feature for generic visual recognition,2014,5905
+bh-uRFMAAAAJ:nPTYJWkExTIC,bh-uRFMAAAAJ,Adversarial discriminative domain adaptation,2017,5195
+bh-uRFMAAAAJ:f2PrUAIjnKUC,bh-uRFMAAAAJ,A convnet for the 2020s,2022,3873
+bh-uRFMAAAAJ:0aBXIfxlw9sC,bh-uRFMAAAAJ,End-to-end training of deep visuomotor policies,2016,3820
+GExyiRkAAAAJ:ZuybSZzF8UAC,GExyiRkAAAAJ,Convex Optimization,2004,74714
+GExyiRkAAAAJ:QoJ_w57xiyAC,GExyiRkAAAAJ,Linear matrix inequalities in system and control theory,1994,29219
+GExyiRkAAAAJ:yD5IFk8b50cC,GExyiRkAAAAJ,Distributed optimization and statistical learning via the alternating direction method of multipliers,2011,22152
+GExyiRkAAAAJ:IjCSPb-OGe4C,GExyiRkAAAAJ,CVX: Matlab software for disciplined convex programming,2008,14782
+GExyiRkAAAAJ:9yKSN-GCB0IC,GExyiRkAAAAJ,Semidefinite programming,1996,5915
+GExyiRkAAAAJ:W7OEmFMy1HYC,GExyiRkAAAAJ,Enhancing Sparsity by Reweighted l1 Minimization,2007,5721
+GExyiRkAAAAJ:eI34FqJmdUoC,GExyiRkAAAAJ,Proximal Algorithms,2014,5166
+GExyiRkAAAAJ:qxL8FJ1GzNcC,GExyiRkAAAAJ,Graph implementations for nonsmooth convex programs,2008,3489
+GExyiRkAAAAJ:Tyk-4Ss8FVUC,GExyiRkAAAAJ,Fast linear iterations for distributed averaging,2004,3221
+GExyiRkAAAAJ:qjMakFHDy7sC,GExyiRkAAAAJ,Applications of second-order cone programming,1998,2959
+rDfyQnIAAAAJ:qjMakFHDy7sC,rDfyQnIAAAAJ,Imagenet: A large-scale hierarchical image database,2009,67660
+rDfyQnIAAAAJ:JV2RwH3_ST0C,rDfyQnIAAAAJ,Imagenet large scale visual recognition challenge,2015,43776
+rDfyQnIAAAAJ:vDijr-p_gm4C,rDfyQnIAAAAJ,Perceptual losses for real-time style transfer and super-resolution,2016,11131
+rDfyQnIAAAAJ:isC4tDSrTZIC,rDfyQnIAAAAJ,Large-scale video classification with convolutional neural networks,2014,8324
+rDfyQnIAAAAJ:M05iB0D1s5AC,rDfyQnIAAAAJ,Deep visual-semantic alignments for generating image descriptions,2015,6707
+rDfyQnIAAAAJ:u-x6o8ySG0sC,rDfyQnIAAAAJ,Learning generative visual models from few training examples: An incremental bayesian approach tested on 101 object categories,2004,5329
+rDfyQnIAAAAJ:sNmaIFBj_lkC,rDfyQnIAAAAJ,Visual genome: Connecting language and vision using crowdsourced dense image annotations,2017,5273
+rDfyQnIAAAAJ:u5HHmVD_uO8C,rDfyQnIAAAAJ,A bayesian hierarchical model for learning natural scene categories,2005,5042
+rDfyQnIAAAAJ:lSLTfruPkqcC,rDfyQnIAAAAJ,3d object representations for fine-grained categorization,2013,3578
+rDfyQnIAAAAJ:4MWp96NkSFoC,rDfyQnIAAAAJ,Social lstm: Human trajectory prediction in crowded spaces,2016,3284
+f2XZEZ8AAAAJ:as11RrW_MxEC,f2XZEZ8AAAAJ,"Worldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016: a pooled analysis of 2416 population-based measurement studies in 128· 9 million children, adolescents, and adults",2017,7715
+f2XZEZ8AAAAJ:isC4tDSrTZIC,f2XZEZ8AAAAJ,Global prevalence of glaucoma and projections of glaucoma burden through 2040: a systematic review and meta-analysis,2014,6419
+f2XZEZ8AAAAJ:Kb2XK_T5ZYAC,f2XZEZ8AAAAJ,"Global, regional, and national comparative risk assessment of 84 behavioural, environmental and occupational, and metabolic risks or clusters of risks for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017",2018,5752
+f2XZEZ8AAAAJ:27qsyVibG6YC,f2XZEZ8AAAAJ,Trends in adult body-mass index in 200 countries from 1975 to 2014: a pooled analysis of 1698 population-based measurement studies with 19· 2 million participants,2016,5551
+f2XZEZ8AAAAJ:d1gkVwhDpl0C,f2XZEZ8AAAAJ,Global prevalence and major risk factors of diabetic retinopathy,2012,5127
+f2XZEZ8AAAAJ:70eg2SAEIzsC,f2XZEZ8AAAAJ,Global prevalence of age-related macular degeneration and disease burden projection for 2020 and 2040: a systematic review and meta-analysis,2014,4527
+f2XZEZ8AAAAJ:pxLfhFzThFYC,f2XZEZ8AAAAJ,Global prevalence of myopia and high myopia and temporal trends from 2000 through 2050,2016,4259
+f2XZEZ8AAAAJ:nazVBdFzvK0C,f2XZEZ8AAAAJ,Worldwide trends in diabetes since 1980: a pooled analysis of 751 population-based studies with 4· 4 million participants,2016,4086
+f2XZEZ8AAAAJ:u5HHmVD_uO8C,f2XZEZ8AAAAJ,"Biological, clinical and population relevance of 95 loci for blood lipids",2010,4016
+f2XZEZ8AAAAJ:5FkVrPDuTQgC,f2XZEZ8AAAAJ,Global causes of blindness and distance vision impairment 1990–2020: a systematic review and meta-analysis,2017,3007

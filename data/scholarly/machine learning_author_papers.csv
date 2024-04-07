@@ -1,0 +1,101 @@
+Author,Paper Title
+Geoffrey Hinton,Imagenet classification with deep convolutional neural networks
+Geoffrey Hinton,Deep learning
+Geoffrey Hinton,Learning internal representations by error-propagation
+Geoffrey Hinton,Dropout: a simple way to prevent neural networks from overfitting
+Geoffrey Hinton,Visualizing data using t-SNE
+Geoffrey Hinton,Learning representations by back-propagating errors
+Geoffrey Hinton,Learning multiple layers of features from tiny images
+Geoffrey Hinton,Rectified linear units improve restricted boltzmann machines
+Geoffrey Hinton,Reducing the dimensionality of data with neural networks
+Geoffrey Hinton,A fast learning algorithm for deep belief nets
+Yoshua Bengio,Generative adversarial nets
+Yoshua Bengio,Deep learning
+Yoshua Bengio,Gradient-based learning applied to document recognition
+Yoshua Bengio,Deep learning
+Yoshua Bengio,Neural machine translation by jointly learning to align and translate
+Yoshua Bengio,Learning phrase representations using RNN encoder-decoder for statistical machine translation
+Yoshua Bengio,Understanding the difficulty of training deep feedforward neural networks
+Yoshua Bengio,Graph attention networks
+Yoshua Bengio,Empirical evaluation of gated recurrent neural networks on sequence modeling
+Yoshua Bengio,Representation learning: A review and new perspectives
+Kaiming He,Deep Residual Learning for Image Recognition
+Kaiming He,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+Kaiming He,Mask R-CNN
+Kaiming He,Focal Loss for Dense Object Detection
+Kaiming He,Feature Pyramid Networks for Object Detection
+Kaiming He,Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
+Kaiming He,Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
+Kaiming He,Learning a Deep Convolutional Network for Image Super-Resolution
+Kaiming He,Aggregated Residual Transformations for Deep Neural Networks
+Kaiming He,Identity Mappings in Deep Residual Networks
+Ilya Sutskever,Imagenet classification with deep convolutional neural networks
+Ilya Sutskever,Tensorflow: Large-scale machine learning on heterogeneous distributed systems
+Ilya Sutskever,Dropout: a simple way to prevent neural networks from overfitting
+Ilya Sutskever,Distributed representations of words and phrases and their compositionality
+Ilya Sutskever,Sequence to sequence learning with neural networks
+Ilya Sutskever,Language models are few-shot learners
+Ilya Sutskever,Mastering the game of Go with deep neural networks and tree search
+Ilya Sutskever,Intriguing properties of neural networks
+Ilya Sutskever,Learning transferable visual models from natural language supervision
+Ilya Sutskever,Improving neural networks by preventing co-adaptation of feature detectors
+Robert Tibshirani,elements of statistical learning
+Robert Tibshirani,Regression shrinkage and selection via the lasso
+Robert Tibshirani,An introduction to the bootstrap
+Robert Tibshirani,an introduction to statistical learning
+Robert Tibshirani,An introduction to statistical learning
+Robert Tibshirani,Regularization paths for generalized linear models via coordinate descent
+Robert Tibshirani,Gene expression patterns of breast carcinomas distinguish tumor subclasses with clinical implications
+Robert Tibshirani,Significance analysis of microarrays applied to the ionizing radiation response
+Robert Tibshirani,Distinct types of diffuse large B-cell lymphoma identified by gene expression profiling
+Robert Tibshirani,Least angle regression
+Ross Girshick,Faster R-CNN: Towards real-time object detection with region proposal networks
+Ross Girshick,"You only look once: Unified, real-time object detection"
+Ross Girshick,Microsoft coco: Common objects in context
+Ross Girshick,Rich feature hierarchies for accurate object detection and semantic segmentation
+Ross Girshick,Mask R-CNN
+Ross Girshick,Fast R-CNN
+Ross Girshick,Focal loss for dense object detection
+Ross Girshick,Feature pyramid networks for object detection
+Ross Girshick,Caffe: Convolutional architecture for fast feature embedding
+Ross Girshick,Object detection with discriminatively trained part-based models
+Andrew Zisserman,Very deep convolutional networks for large-scale image recognition
+Andrew Zisserman,Multiple view geometry in computer vision
+Andrew Zisserman,The pascal visual object classes (voc) challenge
+Andrew Zisserman,Two-stream convolutional networks for action recognition in videos
+Andrew Zisserman,"Quo vadis, action recognition? a new model and the kinetics dataset"
+Andrew Zisserman,Spatial transformer networks
+Andrew Zisserman,Video Google: A text retrieval approach to object matching in videos
+Andrew Zisserman,Deep inside convolutional networks: Visualising image classification models and saliency maps
+Andrew Zisserman,The pascal visual object classes challenge: A retrospective
+Andrew Zisserman,Deep face recognition
+Trevor Hastie,Elements of Statistical Learning
+Trevor Hastie,Generalized Additive Models
+Trevor Hastie,Introduction to Statistical Learning
+Trevor Hastie,Regularization and variable selection via the elastic net
+Trevor Hastie,Regularization paths for generalized linear models via coordinate descent
+Trevor Hastie,Gene expression patterns of breast carcinomas distinguish tumor subclasses with clinical implications
+Trevor Hastie,Least angle regression
+Trevor Hastie,Elements of Statistical Learning
+Trevor Hastie,Additive logistic regression: a statistical view of boosting (with discussion and a rejoinder by the authors)
+Trevor Hastie,Estimating the number of clusters in a data set via the gap statistic
+Yann LeCun,Deep learning
+Yann LeCun,Gradient-based learning applied to document recognition
+Yann LeCun,Backpropagation applied to handwritten zip code recognition
+Yann LeCun,"Convolutional networks for images, speech, and time series"
+Yann LeCun,"OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks"
+Yann LeCun,The MNIST database of handwritten digits
+Yann LeCun,Efficient backprop
+Yann LeCun,Character-level convolutional networks for text classification
+Yann LeCun,Handwritten digit recognition with a back-propagation network
+Yann LeCun,Optimal Brain Damage
+vapnik,The Nature of Statistical Learning Theory
+vapnik,Support-vector networks
+vapnik,Statistical learning theory
+vapnik,A training algorithm for optimal margin classifiers
+vapnik,Backpropagation applied to handwritten zip code recognition
+vapnik,Gene selection for cancer classification using support vector machines
+vapnik,Support vector regression machines
+vapnik,Estimation of dependences based on empirical data
+vapnik,On the uniform convergence of relative frequencies of events to their probabilities
+vapnik,"Support vector method for function approximation, regression estimation and signal processing"

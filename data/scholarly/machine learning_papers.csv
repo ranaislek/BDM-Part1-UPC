@@ -1,101 +1,101 @@
-Author-Paper Id,Author,Title,Year,Citations
-JicYPdAAAAAJ:VN7nJs4JPk0C,Geoffrey Hinton,Imagenet classification with deep convolutional neural networks,2012,153161
-JicYPdAAAAAJ:C-SEpTPhZ1wC,Geoffrey Hinton,Deep learning,2015,75329
-JicYPdAAAAAJ:GFxP56DSvIMC,Geoffrey Hinton,Learning internal representations by error-propagation,1986,58019
-JicYPdAAAAAJ:Ic1VZgkJnDsC,Geoffrey Hinton,Dropout: a simple way to prevent neural networks from overfitting,2014,49596
-JicYPdAAAAAJ:ZeXyd9-uunAC,Geoffrey Hinton,Visualizing data using t-SNE,2008,44980
-JicYPdAAAAAJ:xckinRaLORAC,Geoffrey Hinton,Learning representations by back-propagating errors,1986,37364
-JicYPdAAAAAJ:fPk4N6BV_jEC,Geoffrey Hinton,Learning multiple layers of features from tiny images,2009,28789
-JicYPdAAAAAJ:D_sINldO8mEC,Geoffrey Hinton,Rectified linear units improve restricted boltzmann machines,2010,24477
-JicYPdAAAAAJ:WF5omc3nYNoC,Geoffrey Hinton,Reducing the dimensionality of data with neural networks,2006,22353
-JicYPdAAAAAJ:YsMSGLbcyi4C,Geoffrey Hinton,A fast learning algorithm for deep belief nets,2006,21041
-kukA0LcAAAAJ:naSTrk-c4S8C,Yoshua Bengio,Deep learning,2015,75348
-kukA0LcAAAAJ:i8eIfGGcn98C,Yoshua Bengio,Generative adversarial nets,2014,75310
-kukA0LcAAAAJ:u5HHmVD_uO8C,Yoshua Bengio,Gradient-based learning applied to document recognition,1998,63599
-kukA0LcAAAAJ:orDZ08hpP44C,Yoshua Bengio,Deep learning,2016,61752
-kukA0LcAAAAJ:__bU50VfleQC,Yoshua Bengio,Neural machine translation by jointly learning to align and translate,2014,33719
-kukA0LcAAAAJ:kJDgFkosVoMC,Yoshua Bengio,Learning phrase representations using RNN encoder-decoder for statistical machine translation,2014,28550
-kukA0LcAAAAJ:D_sINldO8mEC,Yoshua Bengio,Understanding the difficulty of training deep feedforward neural networks,2010,23772
-kukA0LcAAAAJ:N6_Y7JlWxwsC,Yoshua Bengio,Graph attention networks,2017,19539
-kukA0LcAAAAJ:SxCCDk4iOpsC,Yoshua Bengio,Empirical evaluation of gated recurrent neural networks on sequence modeling,2014,15469
-kukA0LcAAAAJ:jFemdcug13IC,Yoshua Bengio,Representation learning: A review and new perspectives,2013,15255
-DhtAFkwAAAAJ:ALROH1vI_8AC,Kaiming He,Deep Residual Learning for Image Recognition,2016,217367
-DhtAFkwAAAAJ:uDGL6kOW6j0C,Kaiming He,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks,2015,73150
-DhtAFkwAAAAJ:jU7OWUQzBzMC,Kaiming He,Mask R-CNN,2017,35231
-DhtAFkwAAAAJ:3NQIlFlcGxIC,Kaiming He,Focal Loss for Dense Object Detection,2017,28851
-DhtAFkwAAAAJ:WHdLCjDvYFkC,Kaiming He,Feature Pyramid Networks for Object Detection,2017,25234
-DhtAFkwAAAAJ:CaZNVDsoPx4C,Kaiming He,Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification,2015,23898
-DhtAFkwAAAAJ:u-coK7KVo8oC,Kaiming He,Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition,2014,14859
-DhtAFkwAAAAJ:PaBasH6fAo0C,Kaiming He,Learning a Deep Convolutional Network for Image Super-Resolution,2014,13847
-DhtAFkwAAAAJ:MpfHP-DdYjUC,Kaiming He,Aggregated Residual Transformations for Deep Neural Networks,2017,12038
-DhtAFkwAAAAJ:ubry08Y2EpUC,Kaiming He,Identity Mappings in Deep Residual Networks,2016,11774
-x04W_mMAAAAJ:UebtZRa9Y70C,Ilya Sutskever,Imagenet classification with deep convolutional neural networks,2012,153904
-x04W_mMAAAAJ:4aZ_i-5WJEQC,Ilya Sutskever,Tensorflow: Large-scale machine learning on heterogeneous distributed systems,2016,52722
-x04W_mMAAAAJ:1yWc8FF-_SYC,Ilya Sutskever,Dropout: a simple way to prevent neural networks from overfitting,2014,49577
-x04W_mMAAAAJ:kNdYIx-mwKoC,Ilya Sutskever,Distributed representations of words and phrases and their compositionality,2013,43176
-x04W_mMAAAAJ:-DxkuPiZhfEC,Ilya Sutskever,Sequence to sequence learning with neural networks,2014,25543
-x04W_mMAAAAJ:Ic1VZgkJnDsC,Ilya Sutskever,Language models are few-shot learners,2020,23740
-x04W_mMAAAAJ:PyEswDtIyv0C,Ilya Sutskever,Mastering the game of Go with deep neural networks and tree search,2016,18504
-x04W_mMAAAAJ:Zph67rFs4hoC,Ilya Sutskever,Intriguing properties of neural networks,2013,16123
-x04W_mMAAAAJ:wUn16MOA3RoC,Ilya Sutskever,Learning transferable visual models from natural language supervision,2021,14832
-x04W_mMAAAAJ:LkGwnXOMwfcC,Ilya Sutskever,Improving neural networks by preventing co-adaptation of feature detectors,2012,11053
-ZpG_cJwAAAAJ:QxtoOqDH1aQC,Robert Tibshirani,elements of statistical learning,,78594
-ZpG_cJwAAAAJ:qjMakFHDy7sC,Robert Tibshirani,Regression shrinkage and selection via the lasso,1996,58271
-ZpG_cJwAAAAJ:u5HHmVD_uO8C,Robert Tibshirani,An introduction to the bootstrap,1994,53504
-ZpG_cJwAAAAJ:ult01sCh7k0C,Robert Tibshirani,an introduction to statistical learning,,21109
-ZpG_cJwAAAAJ:zJAXUfKFhq0C,Robert Tibshirani,An introduction to statistical learning,2013,20720
-ZpG_cJwAAAAJ:MSzX15-gZgkC,Robert Tibshirani,Regularization paths for generalized linear models via coordinate descent,2010,17379
-ZpG_cJwAAAAJ:Y0pCki6q_DkC,Robert Tibshirani,Gene expression patterns of breast carcinomas distinguish tumor subclasses with clinical implications,2001,17157
-ZpG_cJwAAAAJ:9yKSN-GCB0IC,Robert Tibshirani,Significance analysis of microarrays applied to the ionizing radiation response,2001,14501
-ZpG_cJwAAAAJ:2osOgNQ5qMEC,Robert Tibshirani,Distinct types of diffuse large B-cell lymphoma identified by gene expression profiling,2000,12477
-ZpG_cJwAAAAJ:W7OEmFMy1HYC,Robert Tibshirani,Least angle regression,2004,12416
-W8VIEZgAAAAJ:9c2xU6iGI7YC,Ross Girshick,Faster R-CNN: Towards real-time object detection with region proposal networks,2015,73114
-W8VIEZgAAAAJ:QYdC8u9Cj1oC,Ross Girshick,"You only look once: Unified, real-time object detection",2016,46280
-W8VIEZgAAAAJ:5icHVeHT4IsC,Ross Girshick,Microsoft coco: Common objects in context,2014,45844
-W8VIEZgAAAAJ:MXK_kJrjxJIC,Ross Girshick,Rich feature hierarchies for accurate object detection and semantic segmentation,2014,38737
-W8VIEZgAAAAJ:ZzlSgRqYykMC,Ross Girshick,Mask R-CNN,2017,34590
-W8VIEZgAAAAJ:IRz6iEL74y4C,Ross Girshick,Fast R-CNN,2015,33333
-W8VIEZgAAAAJ:tH6gc1N1XXoC,Ross Girshick,Focal loss for dense object detection,2017,28956
-W8VIEZgAAAAJ:Ehil0879vHcC,Ross Girshick,Feature pyramid networks for object detection,2017,25356
-W8VIEZgAAAAJ:_FM0Bhl9EiAC,Ross Girshick,Caffe: Convolutional architecture for fast feature embedding,2014,17946
-W8VIEZgAAAAJ:u5HHmVD_uO8C,Ross Girshick,Object detection with discriminatively trained part-based models,2010,13032
-UZ5wscMAAAAJ:v_tt_AnqfNMC,Andrew Zisserman,Very deep convolutional networks for large-scale image recognition,2014,121439
-UZ5wscMAAAAJ:LPZeul_q3PIC,Andrew Zisserman,Multiple view geometry in computer vision,2003,34386
-UZ5wscMAAAAJ:WqliGbK-hY8C,Andrew Zisserman,The pascal visual object classes (voc) challenge,2010,21936
-UZ5wscMAAAAJ:eH23hyXCXa4C,Andrew Zisserman,Two-stream convolutional networks for action recognition in videos,2014,8998
-UZ5wscMAAAAJ:_IsBomjs8bsC,Andrew Zisserman,"Quo vadis, action recognition? a new model and the kinetics dataset",2017,8656
-UZ5wscMAAAAJ:AFmTUeZ1pmEC,Andrew Zisserman,Spatial transformer networks,2015,8631
-UZ5wscMAAAAJ:VOx2b1Wkg3QC,Andrew Zisserman,Video Google: A text retrieval approach to object matching in videos,2003,8458
-UZ5wscMAAAAJ:EaFouW7jFu4C,Andrew Zisserman,Deep inside convolutional networks: Visualising image classification models and saliency maps,2013,7973
-UZ5wscMAAAAJ:Qy-rCirNo-8C,Andrew Zisserman,The pascal visual object classes challenge: A retrospective,2015,6700
-UZ5wscMAAAAJ:j5aT6aphRxQC,Andrew Zisserman,Deep face recognition,2015,6301
-tQVe-fAAAAAJ:fc7zyzPI2QAC,Trevor Hastie,Elements of Statistical Learning,2001,84293
-tQVe-fAAAAAJ:_u2aKJ9e-CoC,Trevor Hastie,Generalized Additive Models,1990,22610
-tQVe-fAAAAAJ:5N-NJrZHaHcC,Trevor Hastie,Introduction to Statistical Learning,2013,22385
-tQVe-fAAAAAJ:Tyk-4Ss8FVUC,Trevor Hastie,Regularization and variable selection via the elastic net,2005,20544
-tQVe-fAAAAAJ:0EnyYjriUFMC,Trevor Hastie,Regularization paths for generalized linear models via coordinate descent,2010,17379
-tQVe-fAAAAAJ:2osOgNQ5qMEC,Trevor Hastie,Gene expression patterns of breast carcinomas distinguish tumor subclasses with clinical implications,2001,17157
-tQVe-fAAAAAJ:qjMakFHDy7sC,Trevor Hastie,Least angle regression,2004,12416
-tQVe-fAAAAAJ:6LV2YwJzdtgC,Trevor Hastie,Elements of Statistical Learning,2009,10534
-tQVe-fAAAAAJ:9yKSN-GCB0IC,Trevor Hastie,Additive logistic regression: a statistical view of boosting (with discussion and a rejoinder by the authors),2000,9408
-tQVe-fAAAAAJ:W7OEmFMy1HYC,Trevor Hastie,Estimating the number of clusters in a data set via the gap statistic,2001,7053
-WLN3QrAAAAAJ:lo0OIn9KAZgC,Yann LeCun,Deep learning,2015,77229
-WLN3QrAAAAAJ:u5HHmVD_uO8C,Yann LeCun,Gradient-based learning applied to document recognition,1998,63599
-WLN3QrAAAAAJ:u-x6o8ySG0sC,Yann LeCun,Backpropagation applied to handwritten zip code recognition,1989,16362
-WLN3QrAAAAAJ:YsMSGLbcyi4C,Yann LeCun,"Convolutional networks for images, speech, and time series",1995,7993
-WLN3QrAAAAAJ:Zo6E4E6iJKMC,Yann LeCun,"OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks",2014,7648
-WLN3QrAAAAAJ:W7OEmFMy1HYC,Yann LeCun,The MNIST database of handwritten digits,1998,7409
-WLN3QrAAAAAJ:PkcyUWeTMh0C,Yann LeCun,Efficient backprop,2002,7069
-WLN3QrAAAAAJ:7EeV9ZTah7MC,Yann LeCun,Character-level convolutional networks for text classification,2015,6541
-WLN3QrAAAAAJ:TIZ-Mc8IlK0C,Yann LeCun,Handwritten digit recognition with a back-propagation network,1990,6258
-WLN3QrAAAAAJ:rywEMSoAiS0C,Yann LeCun,Optimal Brain Damage,1990,5871
-vtegaJgAAAAJ:u5HHmVD_uO8C,vapnik,The Nature of Statistical Learning Theory,1995,74180
-vtegaJgAAAAJ:Sg-YnEhjH50C,vapnik,Support-vector networks,1995,66343
-vtegaJgAAAAJ:6B7w4NK6UsoC,vapnik,Statistical learning theory,1998,42847
-vtegaJgAAAAJ:9yKSN-GCB0IC,vapnik,A training algorithm for optimal margin classifiers,1992,17139
-vtegaJgAAAAJ:RmcNAhKkducC,vapnik,Backpropagation applied to handwritten zip code recognition,1989,16358
-vtegaJgAAAAJ:2osOgNQ5qMEC,vapnik,Gene selection for cancer classification using support vector machines,2002,11620
-vtegaJgAAAAJ:eQOLeE2rZwMC,vapnik,Support vector regression machines,1996,6527
-vtegaJgAAAAJ:qjMakFHDy7sC,vapnik,Estimation of dependences based on empirical data,2006,5687
-vtegaJgAAAAJ:UeHWp8X0CEIC,vapnik,On the uniform convergence of relative frequencies of events to their probabilities,2015,5348
-vtegaJgAAAAJ:Y0pCki6q_DkC,vapnik,"Support vector method for function approximation, regression estimation and signal processing",1996,4486
+Author-Paper Id,author_id,Title,Year,Citations
+JicYPdAAAAAJ:VN7nJs4JPk0C,JicYPdAAAAAJ,Imagenet classification with deep convolutional neural networks,2012,153251
+JicYPdAAAAAJ:C-SEpTPhZ1wC,JicYPdAAAAAJ,Deep learning,2015,75381
+JicYPdAAAAAJ:GFxP56DSvIMC,JicYPdAAAAAJ,Learning internal representations by error-propagation,1986,58030
+JicYPdAAAAAJ:Ic1VZgkJnDsC,JicYPdAAAAAJ,Dropout: a simple way to prevent neural networks from overfitting,2014,49622
+JicYPdAAAAAJ:ZeXyd9-uunAC,JicYPdAAAAAJ,Visualizing data using t-SNE,2008,45041
+JicYPdAAAAAJ:xckinRaLORAC,JicYPdAAAAAJ,Learning representations by back-propagating errors,1986,37378
+JicYPdAAAAAJ:fPk4N6BV_jEC,JicYPdAAAAAJ,Learning multiple layers of features from tiny images,2009,28830
+JicYPdAAAAAJ:D_sINldO8mEC,JicYPdAAAAAJ,Rectified linear units improve restricted boltzmann machines,2010,24485
+JicYPdAAAAAJ:WF5omc3nYNoC,JicYPdAAAAAJ,Reducing the dimensionality of data with neural networks,2006,22364
+JicYPdAAAAAJ:YsMSGLbcyi4C,JicYPdAAAAAJ,A fast learning algorithm for deep belief nets,2006,21050
+kukA0LcAAAAJ:i8eIfGGcn98C,kukA0LcAAAAJ,Generative adversarial nets,2014,75404
+kukA0LcAAAAJ:naSTrk-c4S8C,kukA0LcAAAAJ,Deep learning,2015,75400
+kukA0LcAAAAJ:u5HHmVD_uO8C,kukA0LcAAAAJ,Gradient-based learning applied to document recognition,1998,63637
+kukA0LcAAAAJ:orDZ08hpP44C,kukA0LcAAAAJ,Deep learning,2016,61805
+kukA0LcAAAAJ:__bU50VfleQC,kukA0LcAAAAJ,Neural machine translation by jointly learning to align and translate,2014,33735
+kukA0LcAAAAJ:kJDgFkosVoMC,kukA0LcAAAAJ,Learning phrase representations using RNN encoder-decoder for statistical machine translation,2014,28561
+kukA0LcAAAAJ:D_sINldO8mEC,kukA0LcAAAAJ,Understanding the difficulty of training deep feedforward neural networks,2010,23785
+kukA0LcAAAAJ:N6_Y7JlWxwsC,kukA0LcAAAAJ,Graph attention networks,2017,19562
+kukA0LcAAAAJ:SxCCDk4iOpsC,kukA0LcAAAAJ,Empirical evaluation of gated recurrent neural networks on sequence modeling,2014,15479
+kukA0LcAAAAJ:jFemdcug13IC,kukA0LcAAAAJ,Representation learning: A review and new perspectives,2013,15261
+DhtAFkwAAAAJ:ALROH1vI_8AC,DhtAFkwAAAAJ,Deep Residual Learning for Image Recognition,2016,217608
+DhtAFkwAAAAJ:uDGL6kOW6j0C,DhtAFkwAAAAJ,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks,2015,73205
+DhtAFkwAAAAJ:jU7OWUQzBzMC,DhtAFkwAAAAJ,Mask R-CNN,2017,35255
+DhtAFkwAAAAJ:3NQIlFlcGxIC,DhtAFkwAAAAJ,Focal Loss for Dense Object Detection,2017,28897
+DhtAFkwAAAAJ:WHdLCjDvYFkC,DhtAFkwAAAAJ,Feature Pyramid Networks for Object Detection,2017,25252
+DhtAFkwAAAAJ:CaZNVDsoPx4C,DhtAFkwAAAAJ,Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification,2015,23902
+DhtAFkwAAAAJ:u-coK7KVo8oC,DhtAFkwAAAAJ,Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition,2014,14871
+DhtAFkwAAAAJ:PaBasH6fAo0C,DhtAFkwAAAAJ,Learning a Deep Convolutional Network for Image Super-Resolution,2014,13868
+DhtAFkwAAAAJ:MpfHP-DdYjUC,DhtAFkwAAAAJ,Aggregated Residual Transformations for Deep Neural Networks,2017,12051
+DhtAFkwAAAAJ:ubry08Y2EpUC,DhtAFkwAAAAJ,Identity Mappings in Deep Residual Networks,2016,11781
+x04W_mMAAAAJ:UebtZRa9Y70C,x04W_mMAAAAJ,Imagenet classification with deep convolutional neural networks,2012,154033
+x04W_mMAAAAJ:4aZ_i-5WJEQC,x04W_mMAAAAJ,Tensorflow: Large-scale machine learning on heterogeneous distributed systems,2016,52742
+x04W_mMAAAAJ:1yWc8FF-_SYC,x04W_mMAAAAJ,Dropout: a simple way to prevent neural networks from overfitting,2014,49603
+x04W_mMAAAAJ:kNdYIx-mwKoC,x04W_mMAAAAJ,Distributed representations of words and phrases and their compositionality,2013,43198
+x04W_mMAAAAJ:-DxkuPiZhfEC,x04W_mMAAAAJ,Sequence to sequence learning with neural networks,2014,25554
+x04W_mMAAAAJ:Ic1VZgkJnDsC,x04W_mMAAAAJ,Language models are few-shot learners,2020,23843
+x04W_mMAAAAJ:PyEswDtIyv0C,x04W_mMAAAAJ,Mastering the game of Go with deep neural networks and tree search,2016,18514
+x04W_mMAAAAJ:Zph67rFs4hoC,x04W_mMAAAAJ,Intriguing properties of neural networks,2013,16134
+x04W_mMAAAAJ:wUn16MOA3RoC,x04W_mMAAAAJ,Learning transferable visual models from natural language supervision,2021,14915
+x04W_mMAAAAJ:LkGwnXOMwfcC,x04W_mMAAAAJ,Improving neural networks by preventing co-adaptation of feature detectors,2012,11059
+ZpG_cJwAAAAJ:QxtoOqDH1aQC,ZpG_cJwAAAAJ,elements of statistical learning,,78618
+ZpG_cJwAAAAJ:qjMakFHDy7sC,ZpG_cJwAAAAJ,Regression shrinkage and selection via the lasso,1996,58302
+ZpG_cJwAAAAJ:u5HHmVD_uO8C,ZpG_cJwAAAAJ,An introduction to the bootstrap,1994,53519
+ZpG_cJwAAAAJ:ult01sCh7k0C,ZpG_cJwAAAAJ,an introduction to statistical learning,,21125
+ZpG_cJwAAAAJ:zJAXUfKFhq0C,ZpG_cJwAAAAJ,An introduction to statistical learning,2013,20735
+ZpG_cJwAAAAJ:MSzX15-gZgkC,ZpG_cJwAAAAJ,Regularization paths for generalized linear models via coordinate descent,2010,17398
+ZpG_cJwAAAAJ:Y0pCki6q_DkC,ZpG_cJwAAAAJ,Gene expression patterns of breast carcinomas distinguish tumor subclasses with clinical implications,2001,17160
+ZpG_cJwAAAAJ:9yKSN-GCB0IC,ZpG_cJwAAAAJ,Significance analysis of microarrays applied to the ionizing radiation response,2001,14501
+ZpG_cJwAAAAJ:2osOgNQ5qMEC,ZpG_cJwAAAAJ,Distinct types of diffuse large B-cell lymphoma identified by gene expression profiling,2000,12479
+ZpG_cJwAAAAJ:W7OEmFMy1HYC,ZpG_cJwAAAAJ,Least angle regression,2004,12417
+W8VIEZgAAAAJ:9c2xU6iGI7YC,W8VIEZgAAAAJ,Faster R-CNN: Towards real-time object detection with region proposal networks,2015,73169
+W8VIEZgAAAAJ:QYdC8u9Cj1oC,W8VIEZgAAAAJ,"You only look once: Unified, real-time object detection",2016,46314
+W8VIEZgAAAAJ:5icHVeHT4IsC,W8VIEZgAAAAJ,Microsoft coco: Common objects in context,2014,45909
+W8VIEZgAAAAJ:MXK_kJrjxJIC,W8VIEZgAAAAJ,Rich feature hierarchies for accurate object detection and semantic segmentation,2014,38766
+W8VIEZgAAAAJ:ZzlSgRqYykMC,W8VIEZgAAAAJ,Mask R-CNN,2017,34614
+W8VIEZgAAAAJ:IRz6iEL74y4C,W8VIEZgAAAAJ,Fast R-CNN,2015,33360
+W8VIEZgAAAAJ:tH6gc1N1XXoC,W8VIEZgAAAAJ,Focal loss for dense object detection,2017,29002
+W8VIEZgAAAAJ:Ehil0879vHcC,W8VIEZgAAAAJ,Feature pyramid networks for object detection,2017,25374
+W8VIEZgAAAAJ:_FM0Bhl9EiAC,W8VIEZgAAAAJ,Caffe: Convolutional architecture for fast feature embedding,2014,17950
+W8VIEZgAAAAJ:u5HHmVD_uO8C,W8VIEZgAAAAJ,Object detection with discriminatively trained part-based models,2010,13034
+UZ5wscMAAAAJ:v_tt_AnqfNMC,UZ5wscMAAAAJ,Very deep convolutional networks for large-scale image recognition,2014,121546
+UZ5wscMAAAAJ:LPZeul_q3PIC,UZ5wscMAAAAJ,Multiple view geometry in computer vision,2003,34394
+UZ5wscMAAAAJ:WqliGbK-hY8C,UZ5wscMAAAAJ,The pascal visual object classes (voc) challenge,2010,21944
+UZ5wscMAAAAJ:eH23hyXCXa4C,UZ5wscMAAAAJ,Two-stream convolutional networks for action recognition in videos,2014,9000
+UZ5wscMAAAAJ:_IsBomjs8bsC,UZ5wscMAAAAJ,"Quo vadis, action recognition? a new model and the kinetics dataset",2017,8664
+UZ5wscMAAAAJ:AFmTUeZ1pmEC,UZ5wscMAAAAJ,Spatial transformer networks,2015,8638
+UZ5wscMAAAAJ:VOx2b1Wkg3QC,UZ5wscMAAAAJ,Video Google: A text retrieval approach to object matching in videos,2003,8457
+UZ5wscMAAAAJ:EaFouW7jFu4C,UZ5wscMAAAAJ,Deep inside convolutional networks: Visualising image classification models and saliency maps,2013,7986
+UZ5wscMAAAAJ:Qy-rCirNo-8C,UZ5wscMAAAAJ,The pascal visual object classes challenge: A retrospective,2015,6710
+UZ5wscMAAAAJ:j5aT6aphRxQC,UZ5wscMAAAAJ,Deep face recognition,2015,6310
+tQVe-fAAAAAJ:fc7zyzPI2QAC,tQVe-fAAAAAJ,Elements of Statistical Learning,2001,84316
+tQVe-fAAAAAJ:_u2aKJ9e-CoC,tQVe-fAAAAAJ,Generalized Additive Models,1990,22615
+tQVe-fAAAAAJ:5N-NJrZHaHcC,tQVe-fAAAAAJ,Introduction to Statistical Learning,2013,22401
+tQVe-fAAAAAJ:Tyk-4Ss8FVUC,tQVe-fAAAAAJ,Regularization and variable selection via the elastic net,2005,20563
+tQVe-fAAAAAJ:0EnyYjriUFMC,tQVe-fAAAAAJ,Regularization paths for generalized linear models via coordinate descent,2010,17398
+tQVe-fAAAAAJ:2osOgNQ5qMEC,tQVe-fAAAAAJ,Gene expression patterns of breast carcinomas distinguish tumor subclasses with clinical implications,2001,17160
+tQVe-fAAAAAJ:qjMakFHDy7sC,tQVe-fAAAAAJ,Least angle regression,2004,12417
+tQVe-fAAAAAJ:6LV2YwJzdtgC,tQVe-fAAAAAJ,Elements of Statistical Learning,2009,10535
+tQVe-fAAAAAJ:9yKSN-GCB0IC,tQVe-fAAAAAJ,Additive logistic regression: a statistical view of boosting (with discussion and a rejoinder by the authors),2000,9411
+tQVe-fAAAAAJ:W7OEmFMy1HYC,tQVe-fAAAAAJ,Estimating the number of clusters in a data set via the gap statistic,2001,7054
+WLN3QrAAAAAJ:lo0OIn9KAZgC,WLN3QrAAAAAJ,Deep learning,2015,77285
+WLN3QrAAAAAJ:u5HHmVD_uO8C,WLN3QrAAAAAJ,Gradient-based learning applied to document recognition,1998,63637
+WLN3QrAAAAAJ:u-x6o8ySG0sC,WLN3QrAAAAAJ,Backpropagation applied to handwritten zip code recognition,1989,16367
+WLN3QrAAAAAJ:YsMSGLbcyi4C,WLN3QrAAAAAJ,"Convolutional networks for images, speech, and time series",1995,7999
+WLN3QrAAAAAJ:Zo6E4E6iJKMC,WLN3QrAAAAAJ,"OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks",2014,7650
+WLN3QrAAAAAJ:W7OEmFMy1HYC,WLN3QrAAAAAJ,The MNIST database of handwritten digits,1998,7412
+WLN3QrAAAAAJ:PkcyUWeTMh0C,WLN3QrAAAAAJ,Efficient backprop,2002,7070
+WLN3QrAAAAAJ:7EeV9ZTah7MC,WLN3QrAAAAAJ,Character-level convolutional networks for text classification,2015,6544
+WLN3QrAAAAAJ:TIZ-Mc8IlK0C,WLN3QrAAAAAJ,Handwritten digit recognition with a back-propagation network,1990,6261
+WLN3QrAAAAAJ:rywEMSoAiS0C,WLN3QrAAAAAJ,Optimal Brain Damage,1990,5874
+vtegaJgAAAAJ:u5HHmVD_uO8C,vtegaJgAAAAJ,The Nature of Statistical Learning Theory,1995,74190
+vtegaJgAAAAJ:Sg-YnEhjH50C,vtegaJgAAAAJ,Support-vector networks,1995,66366
+vtegaJgAAAAJ:6B7w4NK6UsoC,vtegaJgAAAAJ,Statistical learning theory,1998,42852
+vtegaJgAAAAJ:9yKSN-GCB0IC,vtegaJgAAAAJ,A training algorithm for optimal margin classifiers,1992,17145
+vtegaJgAAAAJ:RmcNAhKkducC,vtegaJgAAAAJ,Backpropagation applied to handwritten zip code recognition,1989,16363
+vtegaJgAAAAJ:2osOgNQ5qMEC,vtegaJgAAAAJ,Gene selection for cancer classification using support vector machines,2002,11624
+vtegaJgAAAAJ:eQOLeE2rZwMC,vtegaJgAAAAJ,Support vector regression machines,1996,6529
+vtegaJgAAAAJ:qjMakFHDy7sC,vtegaJgAAAAJ,Estimation of dependences based on empirical data,2006,5689
+vtegaJgAAAAJ:UeHWp8X0CEIC,vtegaJgAAAAJ,On the uniform convergence of relative frequencies of events to their probabilities,2015,5349
+vtegaJgAAAAJ:Y0pCki6q_DkC,vtegaJgAAAAJ,"Support vector method for function approximation, regression estimation and signal processing",1996,4486

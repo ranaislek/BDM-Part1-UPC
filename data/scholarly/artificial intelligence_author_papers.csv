@@ -1,0 +1,101 @@
+Author,Paper Title
+Geoffrey Hinton,Imagenet classification with deep convolutional neural networks
+Geoffrey Hinton,Deep learning
+Geoffrey Hinton,Learning internal representations by error-propagation
+Geoffrey Hinton,Dropout: a simple way to prevent neural networks from overfitting
+Geoffrey Hinton,Visualizing data using t-SNE
+Geoffrey Hinton,Learning representations by back-propagating errors
+Geoffrey Hinton,Learning multiple layers of features from tiny images
+Geoffrey Hinton,Rectified linear units improve restricted boltzmann machines
+Geoffrey Hinton,Reducing the dimensionality of data with neural networks
+Geoffrey Hinton,A fast learning algorithm for deep belief nets
+Yoshua Bengio,Generative adversarial nets
+Yoshua Bengio,Deep learning
+Yoshua Bengio,Gradient-based learning applied to document recognition
+Yoshua Bengio,Deep learning
+Yoshua Bengio,Neural machine translation by jointly learning to align and translate
+Yoshua Bengio,Learning phrase representations using RNN encoder-decoder for statistical machine translation
+Yoshua Bengio,Understanding the difficulty of training deep feedforward neural networks
+Yoshua Bengio,Graph attention networks
+Yoshua Bengio,Empirical evaluation of gated recurrent neural networks on sequence modeling
+Yoshua Bengio,Representation learning: A review and new perspectives
+Ilya Sutskever,Imagenet classification with deep convolutional neural networks
+Ilya Sutskever,Tensorflow: Large-scale machine learning on heterogeneous distributed systems
+Ilya Sutskever,Dropout: a simple way to prevent neural networks from overfitting
+Ilya Sutskever,Distributed representations of words and phrases and their compositionality
+Ilya Sutskever,Sequence to sequence learning with neural networks
+Ilya Sutskever,Language models are few-shot learners
+Ilya Sutskever,Mastering the game of Go with deep neural networks and tree search
+Ilya Sutskever,Intriguing properties of neural networks
+Ilya Sutskever,Learning transferable visual models from natural language supervision
+Ilya Sutskever,Improving neural networks by preventing co-adaptation of feature detectors
+Michael I. Jordan,Latent dirichlet allocation
+Michael I. Jordan,On spectral clustering: Analysis and an algorithm
+Michael I. Jordan,"Machine learning: Trends, perspectives, and prospects"
+Michael I. Jordan,Trust region policy optimization
+Michael I. Jordan,Adaptive mixtures of local experts
+Michael I. Jordan,Learning transferable features with deep adaptation networks
+Michael I. Jordan,"Graphical models, exponential families, and variational inference"
+Michael I. Jordan,Sharing clusters among related groups: Hierarchical Dirichlet processes
+Michael I. Jordan,An introduction to variational methods for graphical models
+Michael I. Jordan,Hierarchical mixtures of experts and the EM algorithm
+Lotfi A. Zadeh,Fuzzy Sets
+Lotfi A. Zadeh,The concept of a linguistic variable and its application to approximate reasoning—I
+Lotfi A. Zadeh,The concept of a linguistic variable and its application to approximate reasoning—I
+Lotfi A. Zadeh,Decision-making in a fuzzy environment
+Lotfi A. Zadeh,Fuzzy logic= computing with words
+Lotfi A. Zadeh,Fuzzy logic
+Lotfi A. Zadeh,Similarity relations and fuzzy orderings
+Lotfi A. Zadeh,Toward a theory of fuzzy information granulation and its centrality in human reasoning and fuzzy logic
+Lotfi A. Zadeh,Probability measures of fuzzy events
+Lotfi A. Zadeh,Fuzzy sets and information granularity
+Oriol Vinyals,"TensorFlow: Large-scale machine learning on heterogeneous systems, 2015"
+Oriol Vinyals,Sequence to sequence learning with neural networks
+Oriol Vinyals,Highly accurate protein structure prediction with AlphaFold
+Oriol Vinyals,Distilling the knowledge in a neural network
+Oriol Vinyals,Google's neural machine translation system: Bridging the gap between human and machine translation
+Oriol Vinyals,Matching networks for one shot learning
+Oriol Vinyals,Representation learning with contrastive predictive coding
+Oriol Vinyals,Neural message passing for quantum chemistry
+Oriol Vinyals,Show and tell: A neural image caption generator
+Oriol Vinyals,Understanding deep learning (still) requires rethinking generalization
+Trevor Darrell,Fully convolutional networks for semantic segmentation
+Trevor Darrell,Rich feature hierarchies for accurate object detection and semantic segmentation
+Trevor Darrell,Caffe: Convolutional architecture for fast feature embedding
+Trevor Darrell,Long-term recurrent convolutional networks for visual recognition and description
+Trevor Darrell,Pfinder: Real-time tracking of the human body
+Trevor Darrell,Context encoders: Feature learning by inpainting
+Trevor Darrell,Decaf: A deep convolutional activation feature for generic visual recognition
+Trevor Darrell,Adversarial discriminative domain adaptation
+Trevor Darrell,A convnet for the 2020s
+Trevor Darrell,End-to-end training of deep visuomotor policies
+Stephen Boyd,Convex Optimization
+Stephen Boyd,Linear matrix inequalities in system and control theory
+Stephen Boyd,Distributed optimization and statistical learning via the alternating direction method of multipliers
+Stephen Boyd,CVX: Matlab software for disciplined convex programming
+Stephen Boyd,Semidefinite programming
+Stephen Boyd,Enhancing Sparsity by Reweighted l1 Minimization
+Stephen Boyd,Proximal Algorithms
+Stephen Boyd,Graph implementations for nonsmooth convex programs
+Stephen Boyd,Fast linear iterations for distributed averaging
+Stephen Boyd,Applications of second-order cone programming
+Li Fei-Fei,Imagenet: A large-scale hierarchical image database
+Li Fei-Fei,Imagenet large scale visual recognition challenge
+Li Fei-Fei,Perceptual losses for real-time style transfer and super-resolution
+Li Fei-Fei,Large-scale video classification with convolutional neural networks
+Li Fei-Fei,Deep visual-semantic alignments for generating image descriptions
+Li Fei-Fei,Learning generative visual models from few training examples: An incremental bayesian approach tested on 101 object categories
+Li Fei-Fei,Visual genome: Connecting language and vision using crowdsourced dense image annotations
+Li Fei-Fei,A bayesian hierarchical model for learning natural scene categories
+Li Fei-Fei,3d object representations for fine-grained categorization
+Li Fei-Fei,Social lstm: Human trajectory prediction in crowded spaces
+Tien Yin Wong 黄天荫,"Worldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016: a pooled analysis of 2416 population-based measurement studies in 128· 9 million children, adolescents, and adults"
+Tien Yin Wong 黄天荫,Global prevalence of glaucoma and projections of glaucoma burden through 2040: a systematic review and meta-analysis
+Tien Yin Wong 黄天荫,"Global, regional, and national comparative risk assessment of 84 behavioural, environmental and occupational, and metabolic risks or clusters of risks for 195 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017"
+Tien Yin Wong 黄天荫,Trends in adult body-mass index in 200 countries from 1975 to 2014: a pooled analysis of 1698 population-based measurement studies with 19· 2 million participants
+Tien Yin Wong 黄天荫,Global prevalence and major risk factors of diabetic retinopathy
+Tien Yin Wong 黄天荫,Global prevalence of age-related macular degeneration and disease burden projection for 2020 and 2040: a systematic review and meta-analysis
+Tien Yin Wong 黄天荫,Global prevalence of myopia and high myopia and temporal trends from 2000 through 2050
+Tien Yin Wong 黄天荫,Worldwide trends in diabetes since 1980: a pooled analysis of 751 population-based studies with 4· 4 million participants
+Tien Yin Wong 黄天荫,"Biological, clinical and population relevance of 95 loci for blood lipids"
+Tien Yin Wong 黄天荫,Global causes of blindness and distance vision impairment 1990–2020: a systematic review and meta-analysis

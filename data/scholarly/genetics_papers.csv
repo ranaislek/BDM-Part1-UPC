@@ -1,101 +1,101 @@
-Author-Paper Id,Author,Title,Year,Citations
-LXVfPc8AAAAJ:d1gkVwhDpl0C,Eric Lander,Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles,2005,44286
-LXVfPc8AAAAJ:2PyGcyYA7d0C,Eric Lander,Initial sequencing and analysis of the human genome,2001,39854
-LXVfPc8AAAAJ:u-x6o8ySG0sC,Eric Lander,Molecular classification of cancer: class discovery and class prediction by gene expression monitoring,1999,15512
-LXVfPc8AAAAJ:mVmsd5A6BfQC,Eric Lander,Integrative genomics viewer,2011,13282
-LXVfPc8AAAAJ:KsTgnNRry18C,Eric Lander,Genetic dissection of complex traits: guidelines for interpreting and reporting linkage results,1995,10112
-LXVfPc8AAAAJ:Tyk-4Ss8FVUC,Eric Lander,PGC-1α-responsive genes involved in oxidative phosphorylation are coordinately downregulated in human diabetes,2003,9886
-LXVfPc8AAAAJ:yL7DKRohVA8C,Eric Lander,A map of human genome variation from population scale sequencing,2010,8725
-LXVfPc8AAAAJ:23Hg5vt_rPQC,Eric Lander,Initial sequencing and comparative analysis of the mouse genome,2002,8519
-LXVfPc8AAAAJ:M3ejUd6NZC8C,Eric Lander,Comprehensive mapping of long-range interactions reveals folding principles of the human genome,2009,8447
-LXVfPc8AAAAJ:9yKSN-GCB0IC,Eric Lander,MAPMAKER: an interactive computer package for constructing primary genetic linkage maps of experimental and natural populations,1987,8221
-SW3aNagAAAAJ:WF5omc3nYNoC,Mark Daly,PLINK: a tool set for whole-genome association and population-based linkage analyses,2007,31566
-SW3aNagAAAAJ:4TOpqqG69KYC,Mark Daly,The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data,2010,24221
-SW3aNagAAAAJ:eQOLeE2rZwMC,Mark Daly,Haploview: analysis and visualization of LD and haplotype maps,2005,15693
-SW3aNagAAAAJ:BFa5h04uPMwC,Mark Daly,A framework for variation discovery and genotyping using next-generation DNA sequencing data,2011,11505
-SW3aNagAAAAJ:txeM2kYbVNMC,Mark Daly,"Analysis of protein-coding genetic variation in 60,706 humans",2016,10129
-SW3aNagAAAAJ:hqOjcs7Dif8C,Mark Daly,PGC-1α-responsive genes involved in oxidative phosphorylation are coordinately downregulated in human diabetes,2003,9886
-SW3aNagAAAAJ:zaHkCSmj5XkC,Mark Daly,A map of human genome variation from population scale sequencing,2010,8725
-SW3aNagAAAAJ:_FxGoFyzp5QC,Mark Daly,Initial sequencing and comparative analysis of the mouse genome,2002,8519
-SW3aNagAAAAJ:ufrVoPGSRksC,Mark Daly,MAPMAKER: an interactive computer package for constructing primary genetic linkage maps of experimental and natural populations,1987,8221
-SW3aNagAAAAJ:Agc8PWtS8JkC,Mark Daly,"An integrated map of genetic variation from 1,092 human genomes",2012,8220
-xmOaZ8EAAAAJ:FKzTm0Bp8ZYC,Daniel Levy,Heart disease and stroke statistics—2017 update: a report from the American Heart Association,2017,49515
-xmOaZ8EAAAAJ:-Ex_6Thn4vsC,Daniel Levy,Third universal definition of myocardial infarction,2012,17693
-xmOaZ8EAAAAJ:u5HHmVD_uO8C,Daniel Levy,Prediction of coronary heart disease using risk factor categories,1998,12500
-xmOaZ8EAAAAJ:RW1BPcyHXiwC,Daniel Levy,2013 ACC/AHA guideline on the treatment of blood cholesterol to reduce atherosclerotic cardiovascular risk in adults: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines,2014,10419
-xmOaZ8EAAAAJ:u-x6o8ySG0sC,Daniel Levy,Prognostic implications of echocardiographically determined left ventricular mass in the Framingham Heart Study,1990,7735
-xmOaZ8EAAAAJ:GdooyxxgJVwC,Daniel Levy,2014 AHA/ACC/HRS guideline for the management of patients with atrial fibrillation: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines and the Heart Rhythm Society,2014,6970
-xmOaZ8EAAAAJ:-cHHJ4ChvFsC,Daniel Levy,2013 ACC/AHA guideline on the assessment of cardiovascular risk: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines,2014,6926
-xmOaZ8EAAAAJ:d1gkVwhDpl0C,Daniel Levy,Impact of atrial fibrillation on the risk of death: the Framingham Heart Study,1998,6362
-xmOaZ8EAAAAJ:zeZllD8TmcoC,Daniel Levy,Diabetes and cardiovascular disease: the Framingham study,1979,6296
-xmOaZ8EAAAAJ:RmQ8dt0hH3oC,Daniel Levy,Body-mass index and cause-specific mortality in 900 000 adults: collaborative analyses of 57 prospective studies,2009,6022
-nKkZybgAAAAJ:1fM7sLBYaPUC,"Richard K. Wilson, Ph.D.",Initial sequencing and analysis of the human genome,2001,30425
-nKkZybgAAAAJ:6yz0xqPARnAC,"Richard K. Wilson, Ph.D.",Analysis of the genome sequence of the flowering plant Arabidopsis thaliana,2000,11050
-nKkZybgAAAAJ:CYCckWUYoCcC,"Richard K. Wilson, Ph.D.",Comprehensive molecular portraits of human breast tumours,2012,10977
-nKkZybgAAAAJ:RXiHnyRawswC,"Richard K. Wilson, Ph.D.","Structure, function and diversity of the healthy human microbiome",2012,10015
-nKkZybgAAAAJ:9yKSN-GCB0IC,"Richard K. Wilson, Ph.D.",A second generation human haplotype map of over 3.1 million SNPs,2007,9328
-nKkZybgAAAAJ:PklR0melJeUC,"Richard K. Wilson, Ph.D.",A map of human genome variation from population scale sequencing,2010,8724
-nKkZybgAAAAJ:u-x6o8ySG0sC,"Richard K. Wilson, Ph.D.",Initial sequencing and comparative analysis of the mouse genome,2002,8519
-nKkZybgAAAAJ:TewouNez5YAC,"Richard K. Wilson, Ph.D.","An integrated map of genetic variation from 1,092 human genomes",2012,8220
-nKkZybgAAAAJ:W7OEmFMy1HYC,"Richard K. Wilson, Ph.D.","Integrated genomic analysis identifies clinically relevant subtypes of glioblastoma characterized by abnormalities in PDGFRA, IDH1, EGFR, and NF1",2010,7789
-nKkZybgAAAAJ:7bRg-L-9LFcC,"Richard K. Wilson, Ph.D.",Comprehensive molecular characterization of human colon and rectal cancer,2012,7361
-1wq5H9oAAAAJ:kz9GbA2Ns4gC,Robert A. Weinberg,Hallmarks of cancer: the next generation,2011,74388
-1wq5H9oAAAAJ:u5HHmVD_uO8C,Robert A. Weinberg,The hallmarks of cancer,2000,42613
-1wq5H9oAAAAJ:UeHWp8X0CEIC,Robert A. Weinberg,The basics of epithelial-mesenchymal transition,2009,11795
-1wq5H9oAAAAJ:9yKSN-GCB0IC,Robert A. Weinberg,The epithelial-mesenchymal transition generates cells with properties of stem cells,2008,9949
-1wq5H9oAAAAJ:d1gkVwhDpl0C,Robert A. Weinberg,The retinoblastoma protein and cell cycle control,1995,6700
-1wq5H9oAAAAJ:aqlVkmm33-oC,Robert A. Weinberg,A perspective on cancer cell metastasis,2011,5351
-1wq5H9oAAAAJ:f13iAvnbnnYC,Robert A. Weinberg,On dialogue,2004,4788
-1wq5H9oAAAAJ:IjCSPb-OGe4C,Robert A. Weinberg,"Twist, a master regulator of morphogenesis, plays an essential role in tumor metastasis",2004,4631
-1wq5H9oAAAAJ:Tyk-4Ss8FVUC,Robert A. Weinberg,Stromal fibroblasts present in invasive human breast carcinomas promote tumor growth and angiogenesis through elevated SDF-1/CXCL12 secretion,2005,4353
-1wq5H9oAAAAJ:R3hNpaxXUhUC,Robert A. Weinberg,Tumor metastasis: molecular insights and evolving paradigms,2011,4349
-tV32RXkAAAAJ:NXYAu82O0W8C,Kenneth Kinzler,"WAF1, a potential mediator of p53 tumor suppression",1993,11121
-tV32RXkAAAAJ:yB1At4FlUx8C,Kenneth Kinzler,PD-1 blockade in tumors with mismatch-repair deficiency,2015,9406
-tV32RXkAAAAJ:_kc_bZDykSQC,Kenneth Kinzler,Cancer genome landscapes,2013,8491
-tV32RXkAAAAJ:zYLM7Y9cAGgC,Kenneth Kinzler,An integrated genomic analysis of human glioblastoma multiforme,2008,6825
-tV32RXkAAAAJ:d1gkVwhDpl0C,Kenneth Kinzler,Lessons from hereditary colorectal cancer,1996,6645
-tV32RXkAAAAJ:hqOjcs7Dif8C,Kenneth Kinzler,IDH1 and IDH2 Mutations in Gliomas,2009,6410
-tV32RXkAAAAJ:u-x6o8ySG0sC,Kenneth Kinzler,Serial analysis of gene expression,1995,6321
-tV32RXkAAAAJ:9yKSN-GCB0IC,Kenneth Kinzler,Identification of c-MYC as a target of the APC pathway,1998,5963
-tV32RXkAAAAJ:u0Mu_IsstPMC,Kenneth Kinzler,Mismatch repair deficiency predicts response of solid tumors to PD-1 blockade,2017,5958
-tV32RXkAAAAJ:IjCSPb-OGe4C,Kenneth Kinzler,Cancer genes and the pathways they control,2004,5734
-t53jWtYAAAAJ:SgTKrLvt1DcC,Goncalo Abecasis,The sequence alignment/map format and SAMtools,2009,51311
-t53jWtYAAAAJ:cww_0JKUTDwC,Goncalo Abecasis,Heart disease and stroke statistics—2017 update: a report from the American Heart Association,2017,16877
-t53jWtYAAAAJ:pQTOvowfQioC,Goncalo Abecasis,A global reference for human genetic variation,2015,14462
-t53jWtYAAAAJ:08ZZubdj9fEC,Goncalo Abecasis,The variant call format and VCFtools,2011,12442
-t53jWtYAAAAJ:DPO9WFcz7UcC,Goncalo Abecasis,1000 Genome Project Data Processing Subgroup. 2009. The sequence alignment/map format and samtools,2009,10335
-t53jWtYAAAAJ:d1gkVwhDpl0C,Goncalo Abecasis,A second generation human haplotype map of over 3.1 million SNPs,2007,9328
-t53jWtYAAAAJ:o9ULDYDKYbIC,Goncalo Abecasis,A map of human genome variation from population scale sequencing,2010,8724
-t53jWtYAAAAJ:52neCvzbxIwC,Goncalo Abecasis,"An integrated map of genetic variation from 1,092 human genomes",2012,8236
-t53jWtYAAAAJ:u5HHmVD_uO8C,Goncalo Abecasis,The international HapMap project,2003,6185
-t53jWtYAAAAJ:9yKSN-GCB0IC,Goncalo Abecasis,Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project,2007,5992
-aSXlZbwAAAAJ:wtggH7XvzjUC,Francis S. Collins,Initial sequencing and analysis of the human genome,2001,30141
-aSXlZbwAAAAJ:NXa0JjR8Cs8C,Francis S. Collins,Finding the missing heritability of complex diseases,2009,9682
-aSXlZbwAAAAJ:3jcDufT8s9IC,Francis S. Collins,Identification of the cystic fibrosis gene: cloning and characterization of complementary DNA,1989,9379
-aSXlZbwAAAAJ:lZWdnBtcoEoC,Francis S. Collins,A map of human genome variation from population scale sequencing,2010,8724
-aSXlZbwAAAAJ:j-OXz6b2aK0C,Francis S. Collins,Initial sequencing and comparative analysis of the mouse genome,2002,8519
-aSXlZbwAAAAJ:Ol96Buz8XVoC,Francis S. Collins,A novel gene containing a trinucleotide repeat that is expanded and unstable on Huntington's disease chromosomes,1993,7308
-aSXlZbwAAAAJ:3U6lgfQs5JwC,Francis S. Collins,Comprehensive genomic characterization defines human glioblastoma genes and core pathways,2008,7301
-aSXlZbwAAAAJ:3Q6uvV9Pm_QC,Francis S. Collins,The international HapMap project,2003,6185
-aSXlZbwAAAAJ:TmnWbB_axlEC,Francis S. Collins,A new initiative on precision medicine,2015,5393
-aSXlZbwAAAAJ:Iz9D5oSlWWsC,Francis S. Collins,A second generation human haplotype map of over 3.1 million SNPs,2007,5357
-cADXkPEAAAAJ:u3T1itk59dMC,Matthew Meyerson,EGFR Mutations in Lung Cancer: Correlation with Clinical Response to Gefitinib Therapy,2004,11921
-cADXkPEAAAAJ:1sJd4Hv_s6UC,Matthew Meyerson,Signatures of mutational processes in human cancer,2013,9706
-cADXkPEAAAAJ:j5aT6aphRxQC,Matthew Meyerson,"Integrated genomic analysis identifies clinically relevant subtypes of glioblastoma characterized by abnormalities in PDGFRA, IDH1, EGFR, and NF1",2010,7789
-cADXkPEAAAAJ:0izLItjtcgwC,Matthew Meyerson,The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity,2012,7640
-cADXkPEAAAAJ:dFKc6_kCK1wC,Matthew Meyerson,Comprehensive molecular characterization of human colon and rectal cancer,2012,7361
-cADXkPEAAAAJ:iKswqCX-FLkC,Matthew Meyerson,Comprehensive genomic characterization defines human glioblastoma genes and core pathways,2008,7301
-cADXkPEAAAAJ:ufKn5pxu7C0C,Matthew Meyerson,Integrated genomic analyses of ovarian carcinoma,2011,6781
-cADXkPEAAAAJ:Nw_I7GeUguwC,Matthew Meyerson,Mutational heterogeneity in cancer and the search for new cancer-associated genes,2013,5725
-cADXkPEAAAAJ:IHkkN1K1AlAC,Matthew Meyerson,Comprehensive molecular characterization of gastric adenocarcinoma,2014,5061
-cADXkPEAAAAJ:MAUkC_7iAq8C,Matthew Meyerson,The somatic genomic landscape of glioblastoma,2013,4897
-d-NvY4cAAAAJ:1In3SbHwanAC,Paul Zimmet,Heart disease and stroke statistics—2016 update: a report from the American Heart Association,2016,74553
-d-NvY4cAAAAJ:RtDPZMhf-s8C,Paul Zimmet,Obesity: preventing and managing the global epidemic: report of a WHO consultation,2000,28192
-d-NvY4cAAAAJ:D8wXzuvKacYC,Paul Zimmet,"Definition, diagnosis and classification of diabetes mellitus and its complications. Part 1: diagnosis and classification of diabetes mellitus. Provisional report of a WHO consultation",1998,18856
-d-NvY4cAAAAJ:9o6PfxSMcEIC,Paul Zimmet,"Harmonizing the metabolic syndrome: a joint interim statement of the international diabetes federation task force on epidemiology and prevention; national heart, lung, and blood institute; American heart association; world heart federation; international atherosclerosis society; and international association for the study of obesity",2009,16533
-d-NvY4cAAAAJ:wgKq3sYidysC,Paul Zimmet,The metabolic syndrome—a new worldwide definition,2005,10945
-d-NvY4cAAAAJ:3WNXLiBY60kC,Paul Zimmet,Global estimates of the prevalence of diabetes for 2010 and 2030,2010,10818
-d-NvY4cAAAAJ:WGv8Og3F3KgC,Paul Zimmet,The metabolic syndrome,2005,9700
-d-NvY4cAAAAJ:E2bRg1zSkIsC,Paul Zimmet,Global and societal implications of the diabetes epidemic,2001,8736
-d-NvY4cAAAAJ:Kv9jytqXTosC,Paul Zimmet,Metabolic syndrome—a new world‐wide definition. A consensus statement from the international diabetes federation,2006,8219
-d-NvY4cAAAAJ:viPVbuMW504C,Paul Zimmet,Follow-up report on the diagnosis of diabetes mellitus,2003,3856
+Author-Paper Id,author_id,Title,Year,Citations
+LXVfPc8AAAAJ:d1gkVwhDpl0C,LXVfPc8AAAAJ,Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles,2005,44307
+LXVfPc8AAAAJ:2PyGcyYA7d0C,LXVfPc8AAAAJ,Initial sequencing and analysis of the human genome,2001,39865
+LXVfPc8AAAAJ:u-x6o8ySG0sC,LXVfPc8AAAAJ,Molecular classification of cancer: class discovery and class prediction by gene expression monitoring,1999,15511
+LXVfPc8AAAAJ:mVmsd5A6BfQC,LXVfPc8AAAAJ,Integrative genomics viewer,2011,13296
+LXVfPc8AAAAJ:KsTgnNRry18C,LXVfPc8AAAAJ,Genetic dissection of complex traits: guidelines for interpreting and reporting linkage results,1995,10113
+LXVfPc8AAAAJ:Tyk-4Ss8FVUC,LXVfPc8AAAAJ,PGC-1α-responsive genes involved in oxidative phosphorylation are coordinately downregulated in human diabetes,2003,9892
+LXVfPc8AAAAJ:yL7DKRohVA8C,LXVfPc8AAAAJ,A map of human genome variation from population scale sequencing,2010,8727
+LXVfPc8AAAAJ:23Hg5vt_rPQC,LXVfPc8AAAAJ,Initial sequencing and comparative analysis of the mouse genome,2002,8520
+LXVfPc8AAAAJ:M3ejUd6NZC8C,LXVfPc8AAAAJ,Comprehensive mapping of long-range interactions reveals folding principles of the human genome,2009,8451
+LXVfPc8AAAAJ:6LV2YwJzdtgC,LXVfPc8AAAAJ,"An integrated map of genetic variation from 1,092 human genomes",2012,8222
+SW3aNagAAAAJ:WF5omc3nYNoC,SW3aNagAAAAJ,PLINK: a tool set for whole-genome association and population-based linkage analyses,2007,31581
+SW3aNagAAAAJ:4TOpqqG69KYC,SW3aNagAAAAJ,The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data,2010,24233
+SW3aNagAAAAJ:eQOLeE2rZwMC,SW3aNagAAAAJ,Haploview: analysis and visualization of LD and haplotype maps,2005,15695
+SW3aNagAAAAJ:BFa5h04uPMwC,SW3aNagAAAAJ,A framework for variation discovery and genotyping using next-generation DNA sequencing data,2011,11510
+SW3aNagAAAAJ:txeM2kYbVNMC,SW3aNagAAAAJ,"Analysis of protein-coding genetic variation in 60,706 humans",2016,10135
+SW3aNagAAAAJ:hqOjcs7Dif8C,SW3aNagAAAAJ,PGC-1α-responsive genes involved in oxidative phosphorylation are coordinately downregulated in human diabetes,2003,9892
+SW3aNagAAAAJ:zaHkCSmj5XkC,SW3aNagAAAAJ,A map of human genome variation from population scale sequencing,2010,8727
+SW3aNagAAAAJ:_FxGoFyzp5QC,SW3aNagAAAAJ,Initial sequencing and comparative analysis of the mouse genome,2002,8520
+SW3aNagAAAAJ:Agc8PWtS8JkC,SW3aNagAAAAJ,"An integrated map of genetic variation from 1,092 human genomes",2012,8222
+SW3aNagAAAAJ:ufrVoPGSRksC,SW3aNagAAAAJ,MAPMAKER: an interactive computer package for constructing primary genetic linkage maps of experimental and natural populations,1987,8222
+xmOaZ8EAAAAJ:FKzTm0Bp8ZYC,xmOaZ8EAAAAJ,Heart disease and stroke statistics—2017 update: a report from the American Heart Association,2017,49528
+xmOaZ8EAAAAJ:-Ex_6Thn4vsC,xmOaZ8EAAAAJ,Third universal definition of myocardial infarction,2012,17697
+xmOaZ8EAAAAJ:u5HHmVD_uO8C,xmOaZ8EAAAAJ,Prediction of coronary heart disease using risk factor categories,1998,12506
+xmOaZ8EAAAAJ:RW1BPcyHXiwC,xmOaZ8EAAAAJ,2013 ACC/AHA guideline on the treatment of blood cholesterol to reduce atherosclerotic cardiovascular risk in adults: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines,2014,10423
+xmOaZ8EAAAAJ:u-x6o8ySG0sC,xmOaZ8EAAAAJ,Prognostic implications of echocardiographically determined left ventricular mass in the Framingham Heart Study,1990,7738
+xmOaZ8EAAAAJ:GdooyxxgJVwC,xmOaZ8EAAAAJ,2014 AHA/ACC/HRS guideline for the management of patients with atrial fibrillation: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines and the Heart Rhythm Society,2014,6965
+xmOaZ8EAAAAJ:-cHHJ4ChvFsC,xmOaZ8EAAAAJ,2013 ACC/AHA guideline on the assessment of cardiovascular risk: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines,2014,6926
+xmOaZ8EAAAAJ:d1gkVwhDpl0C,xmOaZ8EAAAAJ,Impact of atrial fibrillation on the risk of death: the Framingham Heart Study,1998,6363
+xmOaZ8EAAAAJ:zeZllD8TmcoC,xmOaZ8EAAAAJ,Diabetes and cardiovascular disease: the Framingham study,1979,6296
+xmOaZ8EAAAAJ:RmQ8dt0hH3oC,xmOaZ8EAAAAJ,Body-mass index and cause-specific mortality in 900 000 adults: collaborative analyses of 57 prospective studies,2009,6026
+nKkZybgAAAAJ:1fM7sLBYaPUC,nKkZybgAAAAJ,Initial sequencing and analysis of the human genome,2001,30431
+nKkZybgAAAAJ:6yz0xqPARnAC,nKkZybgAAAAJ,Analysis of the genome sequence of the flowering plant Arabidopsis thaliana,2000,11051
+nKkZybgAAAAJ:CYCckWUYoCcC,nKkZybgAAAAJ,Comprehensive molecular portraits of human breast tumours,2012,10980
+nKkZybgAAAAJ:RXiHnyRawswC,nKkZybgAAAAJ,"Structure, function and diversity of the healthy human microbiome",2012,10017
+nKkZybgAAAAJ:9yKSN-GCB0IC,nKkZybgAAAAJ,A second generation human haplotype map of over 3.1 million SNPs,2007,9331
+nKkZybgAAAAJ:PklR0melJeUC,nKkZybgAAAAJ,A map of human genome variation from population scale sequencing,2010,8726
+nKkZybgAAAAJ:u-x6o8ySG0sC,nKkZybgAAAAJ,Initial sequencing and comparative analysis of the mouse genome,2002,8520
+nKkZybgAAAAJ:TewouNez5YAC,nKkZybgAAAAJ,"An integrated map of genetic variation from 1,092 human genomes",2012,8222
+nKkZybgAAAAJ:W7OEmFMy1HYC,nKkZybgAAAAJ,"Integrated genomic analysis identifies clinically relevant subtypes of glioblastoma characterized by abnormalities in PDGFRA, IDH1, EGFR, and NF1",2010,7794
+nKkZybgAAAAJ:7bRg-L-9LFcC,nKkZybgAAAAJ,Comprehensive molecular characterization of human colon and rectal cancer,2012,7361
+1wq5H9oAAAAJ:kz9GbA2Ns4gC,1wq5H9oAAAAJ,Hallmarks of cancer: the next generation,2011,74427
+1wq5H9oAAAAJ:u5HHmVD_uO8C,1wq5H9oAAAAJ,The hallmarks of cancer,2000,42629
+1wq5H9oAAAAJ:UeHWp8X0CEIC,1wq5H9oAAAAJ,The basics of epithelial-mesenchymal transition,2009,11799
+1wq5H9oAAAAJ:9yKSN-GCB0IC,1wq5H9oAAAAJ,The epithelial-mesenchymal transition generates cells with properties of stem cells,2008,9949
+1wq5H9oAAAAJ:d1gkVwhDpl0C,1wq5H9oAAAAJ,The retinoblastoma protein and cell cycle control,1995,6701
+1wq5H9oAAAAJ:aqlVkmm33-oC,1wq5H9oAAAAJ,A perspective on cancer cell metastasis,2011,5354
+1wq5H9oAAAAJ:f13iAvnbnnYC,1wq5H9oAAAAJ,On dialogue,2004,4789
+1wq5H9oAAAAJ:IjCSPb-OGe4C,1wq5H9oAAAAJ,"Twist, a master regulator of morphogenesis, plays an essential role in tumor metastasis",2004,4631
+1wq5H9oAAAAJ:Tyk-4Ss8FVUC,1wq5H9oAAAAJ,Stromal fibroblasts present in invasive human breast carcinomas promote tumor growth and angiogenesis through elevated SDF-1/CXCL12 secretion,2005,4353
+1wq5H9oAAAAJ:R3hNpaxXUhUC,1wq5H9oAAAAJ,Tumor metastasis: molecular insights and evolving paradigms,2011,4349
+tV32RXkAAAAJ:NXYAu82O0W8C,tV32RXkAAAAJ,"WAF1, a potential mediator of p53 tumor suppression",1993,11122
+tV32RXkAAAAJ:yB1At4FlUx8C,tV32RXkAAAAJ,PD-1 blockade in tumors with mismatch-repair deficiency,2015,9412
+tV32RXkAAAAJ:_kc_bZDykSQC,tV32RXkAAAAJ,Cancer genome landscapes,2013,8494
+tV32RXkAAAAJ:zYLM7Y9cAGgC,tV32RXkAAAAJ,An integrated genomic analysis of human glioblastoma multiforme,2008,6827
+tV32RXkAAAAJ:d1gkVwhDpl0C,tV32RXkAAAAJ,Lessons from hereditary colorectal cancer,1996,6646
+tV32RXkAAAAJ:hqOjcs7Dif8C,tV32RXkAAAAJ,IDH1 and IDH2 Mutations in Gliomas,2009,6411
+tV32RXkAAAAJ:u-x6o8ySG0sC,tV32RXkAAAAJ,Serial analysis of gene expression,1995,6321
+tV32RXkAAAAJ:9yKSN-GCB0IC,tV32RXkAAAAJ,Identification of c-MYC as a target of the APC pathway,1998,5963
+tV32RXkAAAAJ:u0Mu_IsstPMC,tV32RXkAAAAJ,Mismatch repair deficiency predicts response of solid tumors to PD-1 blockade,2017,5958
+tV32RXkAAAAJ:IjCSPb-OGe4C,tV32RXkAAAAJ,Cancer genes and the pathways they control,2004,5736
+t53jWtYAAAAJ:SgTKrLvt1DcC,t53jWtYAAAAJ,The sequence alignment/map format and SAMtools,2009,51331
+t53jWtYAAAAJ:cww_0JKUTDwC,t53jWtYAAAAJ,Heart disease and stroke statistics—2017 update: a report from the American Heart Association,2017,16886
+t53jWtYAAAAJ:pQTOvowfQioC,t53jWtYAAAAJ,A global reference for human genetic variation,2015,14470
+t53jWtYAAAAJ:08ZZubdj9fEC,t53jWtYAAAAJ,The variant call format and VCFtools,2011,12442
+t53jWtYAAAAJ:DPO9WFcz7UcC,t53jWtYAAAAJ,1000 Genome Project Data Processing Subgroup. 2009. The sequence alignment/map format and samtools,2009,10329
+t53jWtYAAAAJ:d1gkVwhDpl0C,t53jWtYAAAAJ,A second generation human haplotype map of over 3.1 million SNPs,2007,9331
+t53jWtYAAAAJ:o9ULDYDKYbIC,t53jWtYAAAAJ,A map of human genome variation from population scale sequencing,2010,8726
+t53jWtYAAAAJ:52neCvzbxIwC,t53jWtYAAAAJ,"An integrated map of genetic variation from 1,092 human genomes",2012,8238
+t53jWtYAAAAJ:u5HHmVD_uO8C,t53jWtYAAAAJ,The international HapMap project,2003,6183
+t53jWtYAAAAJ:9yKSN-GCB0IC,t53jWtYAAAAJ,Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project,2007,5992
+aSXlZbwAAAAJ:wtggH7XvzjUC,aSXlZbwAAAAJ,Initial sequencing and analysis of the human genome,2001,30147
+aSXlZbwAAAAJ:NXa0JjR8Cs8C,aSXlZbwAAAAJ,Finding the missing heritability of complex diseases,2009,9685
+aSXlZbwAAAAJ:3jcDufT8s9IC,aSXlZbwAAAAJ,Identification of the cystic fibrosis gene: cloning and characterization of complementary DNA,1989,9381
+aSXlZbwAAAAJ:lZWdnBtcoEoC,aSXlZbwAAAAJ,A map of human genome variation from population scale sequencing,2010,8726
+aSXlZbwAAAAJ:j-OXz6b2aK0C,aSXlZbwAAAAJ,Initial sequencing and comparative analysis of the mouse genome,2002,8520
+aSXlZbwAAAAJ:Ol96Buz8XVoC,aSXlZbwAAAAJ,A novel gene containing a trinucleotide repeat that is expanded and unstable on Huntington's disease chromosomes,1993,7310
+aSXlZbwAAAAJ:3U6lgfQs5JwC,aSXlZbwAAAAJ,Comprehensive genomic characterization defines human glioblastoma genes and core pathways,2008,7303
+aSXlZbwAAAAJ:3Q6uvV9Pm_QC,aSXlZbwAAAAJ,The international HapMap project,2003,6183
+aSXlZbwAAAAJ:TmnWbB_axlEC,aSXlZbwAAAAJ,A new initiative on precision medicine,2015,5393
+aSXlZbwAAAAJ:Iz9D5oSlWWsC,aSXlZbwAAAAJ,A second generation human haplotype map of over 3.1 million SNPs,2007,5358
+cADXkPEAAAAJ:u3T1itk59dMC,cADXkPEAAAAJ,EGFR Mutations in Lung Cancer: Correlation with Clinical Response to Gefitinib Therapy,2004,11924
+cADXkPEAAAAJ:1sJd4Hv_s6UC,cADXkPEAAAAJ,Signatures of mutational processes in human cancer,2013,9709
+cADXkPEAAAAJ:j5aT6aphRxQC,cADXkPEAAAAJ,"Integrated genomic analysis identifies clinically relevant subtypes of glioblastoma characterized by abnormalities in PDGFRA, IDH1, EGFR, and NF1",2010,7794
+cADXkPEAAAAJ:0izLItjtcgwC,cADXkPEAAAAJ,The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity,2012,7645
+cADXkPEAAAAJ:dFKc6_kCK1wC,cADXkPEAAAAJ,Comprehensive molecular characterization of human colon and rectal cancer,2012,7361
+cADXkPEAAAAJ:iKswqCX-FLkC,cADXkPEAAAAJ,Comprehensive genomic characterization defines human glioblastoma genes and core pathways,2008,7303
+cADXkPEAAAAJ:ufKn5pxu7C0C,cADXkPEAAAAJ,Integrated genomic analyses of ovarian carcinoma,2011,6784
+cADXkPEAAAAJ:Nw_I7GeUguwC,cADXkPEAAAAJ,Mutational heterogeneity in cancer and the search for new cancer-associated genes,2013,5725
+cADXkPEAAAAJ:IHkkN1K1AlAC,cADXkPEAAAAJ,Comprehensive molecular characterization of gastric adenocarcinoma,2014,5068
+cADXkPEAAAAJ:MAUkC_7iAq8C,cADXkPEAAAAJ,The somatic genomic landscape of glioblastoma,2013,4898
+d-NvY4cAAAAJ:1In3SbHwanAC,d-NvY4cAAAAJ,Heart disease and stroke statistics—2016 update: a report from the American Heart Association,2016,74571
+d-NvY4cAAAAJ:RtDPZMhf-s8C,d-NvY4cAAAAJ,Obesity: preventing and managing the global epidemic: report of a WHO consultation,2000,28199
+d-NvY4cAAAAJ:D8wXzuvKacYC,d-NvY4cAAAAJ,"Definition, diagnosis and classification of diabetes mellitus and its complications. Part 1: diagnosis and classification of diabetes mellitus. Provisional report of a WHO consultation",1998,18863
+d-NvY4cAAAAJ:9o6PfxSMcEIC,d-NvY4cAAAAJ,"Harmonizing the metabolic syndrome: a joint interim statement of the international diabetes federation task force on epidemiology and prevention; national heart, lung, and blood institute; American heart association; world heart federation; international atherosclerosis society; and international association for the study of obesity",2009,16542
+d-NvY4cAAAAJ:wgKq3sYidysC,d-NvY4cAAAAJ,The metabolic syndrome—a new worldwide definition,2005,10952
+d-NvY4cAAAAJ:3WNXLiBY60kC,d-NvY4cAAAAJ,Global estimates of the prevalence of diabetes for 2010 and 2030,2010,10820
+d-NvY4cAAAAJ:WGv8Og3F3KgC,d-NvY4cAAAAJ,The metabolic syndrome,2005,9701
+d-NvY4cAAAAJ:E2bRg1zSkIsC,d-NvY4cAAAAJ,Global and societal implications of the diabetes epidemic,2001,8738
+d-NvY4cAAAAJ:Kv9jytqXTosC,d-NvY4cAAAAJ,Metabolic syndrome—a new world‐wide definition. A consensus statement from the international diabetes federation,2006,8222
+d-NvY4cAAAAJ:viPVbuMW504C,d-NvY4cAAAAJ,Follow-up report on the diagnosis of diabetes mellitus,2003,3856

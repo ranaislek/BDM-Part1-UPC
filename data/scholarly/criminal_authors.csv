@@ -1,11 +1,11 @@
-Author Id,Name,Affiliation,Email,Interests
-Ey_9mpIAAAAJ,topo Santoso,university of indonesia,@ui.ac.id,"criminal, justice, system, law, election"
-NBpGixUAAAAJ,Jeffrey A. Butts,John Jay College of Criminal Justice,@jjay.cuny.edu,"Criminal, Juvenile, Justice, Evaluation, Policy"
-5BqDnOwAAAAJ,Luisa F. Franco Rodriguez,Universidad Santo Tomas,@usantotomas.edu.co,"psicología, abuso sexual, criminal, peritaje"
-MySkMIcAAAAJ,lincoln fry,Athens Institute for Education and Research (ATINER),@acg.edu,"criminal, justice  criminology, medical sociology"
-Oihi51AAAAAJ,Michael Lott,Paralegal/Investigator,,"criminal, civil, ect."
-9v_ZuQkAAAAJ,Rashmi meena,Scholar,,criminal
-qdEj7O4AAAAJ,Eimear Spain,University of Limerick,@ul.ie,"Criminal, constitutional, intellectual property law, law and emotions, law and psychology"
-KNM-L7wAAAAJ,Rony Saputra,universitasandalas.academia.edu/RoniSaputra,@auriga.or.id,"law, environmental, criminal, human right, corporate"
-ekVoyAgAAAAJ,akta yudisia,Borneo Tarakan University,@borneo.ac.id,"education of law, instruction incivil, criminal, state administration"
--gIG8DwAAAAJ,P.h. Srabon,Lawyer & Advisor,,"Income Tax, Value Added Tax, Civil, Criminal, Asylum & Immigratio."
+Author Id,Name,Affiliation,Email,citedby,citedby5y,hindex,hindex5y,Interests
+Ey_9mpIAAAAJ,topo Santoso,university of indonesia,@ui.ac.id,3665,2354,23,20,"criminal, justice, system, law, election"
+NBpGixUAAAAJ,Jeffrey A. Butts,John Jay College of Criminal Justice,@jjay.cuny.edu,3490,926,29,14,"Criminal, Juvenile, Justice, Evaluation, Policy"
+5BqDnOwAAAAJ,Luisa F. Franco Rodriguez,Universidad Santo Tomas,@usantotomas.edu.co,860,94,1,1,"psicología, abuso sexual, criminal, peritaje"
+MySkMIcAAAAJ,lincoln fry,Athens Institute for Education and Research (ATINER),@acg.edu,835,82,16,4,"criminal, justice  criminology, medical sociology"
+Oihi51AAAAAJ,Michael Lott,Paralegal/Investigator,,341,13,4,2,"criminal, civil, ect."
+9v_ZuQkAAAAJ,Rashmi meena,Scholar,,175,54,8,4,criminal
+qdEj7O4AAAAJ,Eimear Spain,University of Limerick,@ul.ie,156,126,7,7,"Criminal, constitutional, intellectual property law, law and emotions, law and psychology"
+KNM-L7wAAAAJ,Rony Saputra,universitasandalas.academia.edu/RoniSaputra,@auriga.or.id,102,93,4,4,"law, environmental, criminal, human right, corporate"
+ekVoyAgAAAAJ,akta yudisia,Borneo Tarakan University,@borneo.ac.id,83,73,5,4,"education of law, instruction incivil, criminal, state administration"
+-gIG8DwAAAAJ,P.h. Srabon,Lawyer & Advisor,,71,29,1,1,"Income Tax, Value Added Tax, Civil, Criminal, Asylum & Immigratio."
