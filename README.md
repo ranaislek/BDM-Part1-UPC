@@ -1,4 +1,4 @@
-# BDM-P1
+# Instructions on how to run: BDM-P1
 Big Data Management and Analytics Project - Part 1
 
 For our startup ScholarIA, we need a database full of academic papers and related information.
