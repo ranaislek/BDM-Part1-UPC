@@ -102,9 +102,9 @@ for field, subjects in top_subjects_dict.items():
         df_journal_venues = pd.DataFrame(journal_venues)
         df_conference_venues = pd.DataFrame(conference_venues)
 
-        path_conferences = "/home/furkanbk/BDM/BDM-P1/data/conferences"
-        path_journals = "/home/furkanbk/BDM/BDM-P1/data/journals"
-        path_published_in = "/home/furkanbk/BDM/BDM-P1/data/published_in"    
+        path_conferences = "/home/furkanbk/BDM/BDM-P1/data/semanticscholar/conferences"
+        path_journals = "/home/furkanbk/BDM/BDM-P1/data/semanticscholar/journals"
+        path_published_in = "/home/furkanbk/BDM/BDM-P1/data/semanticscholar/published_in"    
             
         df_published_in.to_csv(f'{path_published_in}/{field}_{subject}_published_in.csv', index=False)
         df_journal_venues.to_csv(f'{path_journals}/{field}_{subject}_journals.csv', index=False)

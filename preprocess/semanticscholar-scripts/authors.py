@@ -6,7 +6,7 @@ import time
 
 #read the csv residing in the data folder
 
-path = "/home/furkanbk/BDM/BDM-P1/data/written_by" # change the absolute path of data to your own path
+path = "/home/furkanbk/BDM/BDM-P1/data/semanticscholar/written_by" # change the absolute path of data to your own path
 
 top_subjects_dict = {
     "Computer Science": ["Machine Learning", "Artificial Intelligence"],
@@ -73,7 +73,7 @@ for field, subjects in top_subjects_dict.items():
                 print("Failed to retrieve author details for author_id:", author_id)
         df = pd.DataFrame(author_details)
 
-        path_data = "/home/furkanbk/BDM/BDM-P1/data/authors"
+        path_data = "/home/furkanbk/BDM/BDM-P1/data/semanticscholar/authors"
             #create a folder for each field and subject
             
         df.to_csv(f'{path_data}/{field}_{subject}_authors.csv', index=False)

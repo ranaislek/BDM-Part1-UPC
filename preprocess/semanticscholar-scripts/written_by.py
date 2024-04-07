@@ -67,7 +67,7 @@ for field, subjects in top_subjects_dict.items():
 
             df = pd.DataFrame(author_details)
             print(df.head())
-            path_data = "/home/furkanbk/BDM/BDM-P1/data/written_by"
+            path_data = "/home/furkanbk/BDM/BDM-P1/data/semanticscholar/written_by"
             #create a folder for each field and subject
             
             df.to_csv(f'{path_data}/{field}_{subject}_written_by.csv', index=False)

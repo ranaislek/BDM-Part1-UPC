@@ -65,7 +65,7 @@ for field, subjects in top_subjects_dict.items():
 
         df = pd.DataFrame(reference_details)
 
-        path_citations = "/home/furkanbk/BDM/BDM-P1/data/citations"
+        path_citations = "/home/furkanbk/BDM/BDM-P1/data/semanticscholar/citations"
         df.to_csv(f'{path_citations}/{field}_{subject}_citations.csv', index=False)
         print(f"Saved citation details for {field} - {subject} - Time taken: {time.time() - start}")
         total_time += time.time() - start

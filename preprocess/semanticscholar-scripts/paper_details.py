@@ -83,7 +83,7 @@ for field, subjects in top_subjects_dict.items():
             df = pd.DataFrame(paper_details)
             print(df.head())
             # save the paper details to a csv file in data folder
-            path_data = "/home/furkanbk/BDM/BDM-P1/data/paper_details"
+            path_data = "/home/furkanbk/BDM/BDM-P1/data/semanticscholar/paper_details"
             #create a folder for each field and subject
             
             df.to_csv(f'{path_data}/{field}_{subject}_papers_details.csv', index=False)

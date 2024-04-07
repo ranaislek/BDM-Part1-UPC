@@ -22,7 +22,7 @@ def complete_missing_ratings(collected_classes):
   
 
 
-path = "/home/furkanbk/SDM/P1/SDM-P1-GRAPH/data" # change the absolute path of data to your own path
+path = "/home/furkanbk/BDM/BDM-P1/data/semanticscholar" # change the absolute path of data to your own path
 df = pd.read_excel(path + '/GII-ratings-2021-raw.xlsx', header=1, index_col=0)
 
 columns = ["Title", "GGS Rating", "Collected Classes"]
@@ -64,4 +64,5 @@ df['num_rank'] = df['num_rank'].astype(int)
 print(df.head(5))   
 
 #save the dataframe to a csv file
-df.to_csv('GII-ratings-2021.csv', index=False)
+
+df.to_csv(path + '/GII-ratings-2021.csv', index = False)

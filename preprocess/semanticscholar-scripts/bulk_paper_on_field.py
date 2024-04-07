@@ -54,7 +54,8 @@ def fetch_all_results_on_topic(query_params,amount = 1000):
                     filename = f"matched_papers_{field}_{top_subject}.json"
                     # Write the data to the JSON file
                     #path is in bdm_data folder
-                    with open(f"bdm_data/{filename}", 'w') as json_file:
+                    path = "/home/furkanbk/BDM/BDM-P1/papers_json"
+                    with open(f"{path}/{filename}", 'w') as json_file:
                         json.dump(all_results, json_file, indent=2)
                     all_results = []
                     break
