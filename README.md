@@ -1,6 +1,8 @@
 # Instructions on how to run: BDM-P1
 Big Data Management and Analytics Project - Part 1
 
+Github link: https://github.com/furkanbk/BDM-P1
+
 For our startup ScholarIA, we need a database full of academic papers and related information.
 To do that, as a start we used two datasources: Semanticscholar and Scholarly API
 
